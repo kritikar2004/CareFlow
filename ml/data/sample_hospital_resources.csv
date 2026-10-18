@@ -1,0 +1,2191 @@
+date,resource_category,resource_name,unit,quantity_available,quantity_used,reference_capacity
+2025-10-01,Bed,ICU Bed,beds,1,14,20
+2025-10-01,Bed,General Bed,beds,23,72,100
+2025-10-01,Equipment,Ventilator,units,2,6,10
+2025-10-01,Medicine,Paracetamol,tablets,2919,596,5000
+2025-10-01,Fluid,Glucose,units,439,99,500
+2025-10-01,Fluid,IV Fluid,units,272,84,500
+2025-10-02,Bed,ICU Bed,beds,1,14,20
+2025-10-02,Bed,General Bed,beds,17,71,100
+2025-10-02,Equipment,Ventilator,units,2,9,10
+2025-10-02,Medicine,Paracetamol,tablets,2608,537,5000
+2025-10-02,Fluid,Glucose,units,300,99,500
+2025-10-02,Fluid,IV Fluid,units,357,58,500
+2025-10-03,Bed,ICU Bed,beds,4,18,20
+2025-10-03,Bed,General Bed,beds,23,90,100
+2025-10-03,Equipment,Ventilator,units,1,6,10
+2025-10-03,Medicine,Paracetamol,tablets,4231,424,5000
+2025-10-03,Fluid,Glucose,units,321,49,500
+2025-10-03,Fluid,IV Fluid,units,305,73,500
+2025-10-04,Bed,ICU Bed,beds,1,14,20
+2025-10-04,Bed,General Bed,beds,27,68,100
+2025-10-04,Equipment,Ventilator,units,3,7,10
+2025-10-04,Medicine,Paracetamol,tablets,3583,663,5000
+2025-10-04,Fluid,Glucose,units,261,88,500
+2025-10-04,Fluid,IV Fluid,units,387,45,500
+2025-10-05,Bed,ICU Bed,beds,4,14,20
+2025-10-05,Bed,General Bed,beds,32,74,100
+2025-10-05,Equipment,Ventilator,units,3,9,10
+2025-10-05,Medicine,Paracetamol,tablets,3287,610,5000
+2025-10-05,Fluid,Glucose,units,267,35,500
+2025-10-05,Fluid,IV Fluid,units,419,59,500
+2025-10-06,Bed,ICU Bed,beds,3,14,20
+2025-10-06,Bed,General Bed,beds,22,68,100
+2025-10-06,Equipment,Ventilator,units,4,7,10
+2025-10-06,Medicine,Paracetamol,tablets,4357,575,5000
+2025-10-06,Fluid,Glucose,units,463,76,500
+2025-10-06,Fluid,IV Fluid,units,291,77,500
+2025-10-07,Bed,ICU Bed,beds,3,15,20
+2025-10-07,Bed,General Bed,beds,23,87,100
+2025-10-07,Equipment,Ventilator,units,1,9,10
+2025-10-07,Medicine,Paracetamol,tablets,3200,523,5000
+2025-10-07,Fluid,Glucose,units,436,61,500
+2025-10-07,Fluid,IV Fluid,units,291,89,500
+2025-10-08,Bed,ICU Bed,beds,4,16,20
+2025-10-08,Bed,General Bed,beds,35,87,100
+2025-10-08,Equipment,Ventilator,units,2,7,10
+2025-10-08,Medicine,Paracetamol,tablets,2729,367,5000
+2025-10-08,Fluid,Glucose,units,460,34,500
+2025-10-08,Fluid,IV Fluid,units,456,70,500
+2025-10-09,Bed,ICU Bed,beds,4,16,20
+2025-10-09,Bed,General Bed,beds,17,71,100
+2025-10-09,Equipment,Ventilator,units,3,6,10
+2025-10-09,Medicine,Paracetamol,tablets,4544,452,5000
+2025-10-09,Fluid,Glucose,units,476,88,500
+2025-10-09,Fluid,IV Fluid,units,286,63,500
+2025-10-10,Bed,ICU Bed,beds,2,15,20
+2025-10-10,Bed,General Bed,beds,32,82,100
+2025-10-10,Equipment,Ventilator,units,3,9,10
+2025-10-10,Medicine,Paracetamol,tablets,4254,548,5000
+2025-10-10,Fluid,Glucose,units,352,76,500
+2025-10-10,Fluid,IV Fluid,units,306,47,500
+2025-10-11,Bed,ICU Bed,beds,5,17,20
+2025-10-11,Bed,General Bed,beds,17,89,100
+2025-10-11,Equipment,Ventilator,units,1,5,10
+2025-10-11,Medicine,Paracetamol,tablets,3126,571,5000
+2025-10-11,Fluid,Glucose,units,290,84,500
+2025-10-11,Fluid,IV Fluid,units,402,38,500
+2025-10-12,Bed,ICU Bed,beds,4,17,20
+2025-10-12,Bed,General Bed,beds,34,79,100
+2025-10-12,Equipment,Ventilator,units,3,9,10
+2025-10-12,Medicine,Paracetamol,tablets,2547,598,5000
+2025-10-12,Fluid,Glucose,units,434,44,500
+2025-10-12,Fluid,IV Fluid,units,424,98,500
+2025-10-13,Bed,ICU Bed,beds,3,19,20
+2025-10-13,Bed,General Bed,beds,25,68,100
+2025-10-13,Equipment,Ventilator,units,3,8,10
+2025-10-13,Medicine,Paracetamol,tablets,3147,482,5000
+2025-10-13,Fluid,Glucose,units,250,63,500
+2025-10-13,Fluid,IV Fluid,units,378,52,500
+2025-10-14,Bed,ICU Bed,beds,5,14,20
+2025-10-14,Bed,General Bed,beds,35,74,100
+2025-10-14,Equipment,Ventilator,units,2,6,10
+2025-10-14,Medicine,Paracetamol,tablets,4031,640,5000
+2025-10-14,Fluid,Glucose,units,291,99,500
+2025-10-14,Fluid,IV Fluid,units,449,97,500
+2025-10-15,Bed,ICU Bed,beds,1,18,20
+2025-10-15,Bed,General Bed,beds,25,80,100
+2025-10-15,Equipment,Ventilator,units,1,5,10
+2025-10-15,Medicine,Paracetamol,tablets,3986,699,5000
+2025-10-15,Fluid,Glucose,units,462,69,500
+2025-10-15,Fluid,IV Fluid,units,311,37,500
+2025-10-16,Bed,ICU Bed,beds,2,18,20
+2025-10-16,Bed,General Bed,beds,17,67,100
+2025-10-16,Equipment,Ventilator,units,4,5,10
+2025-10-16,Medicine,Paracetamol,tablets,4681,642,5000
+2025-10-16,Fluid,Glucose,units,282,46,500
+2025-10-16,Fluid,IV Fluid,units,418,90,500
+2025-10-17,Bed,ICU Bed,beds,5,15,20
+2025-10-17,Bed,General Bed,beds,23,81,100
+2025-10-17,Equipment,Ventilator,units,4,6,10
+2025-10-17,Medicine,Paracetamol,tablets,4708,636,5000
+2025-10-17,Fluid,Glucose,units,436,55,500
+2025-10-17,Fluid,IV Fluid,units,432,69,500
+2025-10-18,Bed,ICU Bed,beds,4,19,20
+2025-10-18,Bed,General Bed,beds,35,76,100
+2025-10-18,Equipment,Ventilator,units,4,9,10
+2025-10-18,Medicine,Paracetamol,tablets,4349,311,5000
+2025-10-18,Fluid,Glucose,units,313,58,500
+2025-10-18,Fluid,IV Fluid,units,266,73,500
+2025-10-19,Bed,ICU Bed,beds,1,18,20
+2025-10-19,Bed,General Bed,beds,32,72,100
+2025-10-19,Equipment,Ventilator,units,2,5,10
+2025-10-19,Medicine,Paracetamol,tablets,2790,612,5000
+2025-10-19,Fluid,Glucose,units,411,37,500
+2025-10-19,Fluid,IV Fluid,units,308,38,500
+2025-10-20,Bed,ICU Bed,beds,1,16,20
+2025-10-20,Bed,General Bed,beds,17,81,100
+2025-10-20,Equipment,Ventilator,units,2,7,10
+2025-10-20,Medicine,Paracetamol,tablets,4488,359,5000
+2025-10-20,Fluid,Glucose,units,388,46,500
+2025-10-20,Fluid,IV Fluid,units,435,90,500
+2025-10-21,Bed,ICU Bed,beds,2,17,20
+2025-10-21,Bed,General Bed,beds,28,71,100
+2025-10-21,Equipment,Ventilator,units,1,5,10
+2025-10-21,Medicine,Paracetamol,tablets,4265,431,5000
+2025-10-21,Fluid,Glucose,units,358,82,500
+2025-10-21,Fluid,IV Fluid,units,369,36,500
+2025-10-22,Bed,ICU Bed,beds,1,14,20
+2025-10-22,Bed,General Bed,beds,27,88,100
+2025-10-22,Equipment,Ventilator,units,3,5,10
+2025-10-22,Medicine,Paracetamol,tablets,3518,348,5000
+2025-10-22,Fluid,Glucose,units,298,98,500
+2025-10-22,Fluid,IV Fluid,units,364,47,500
+2025-10-23,Bed,ICU Bed,beds,4,15,20
+2025-10-23,Bed,General Bed,beds,23,79,100
+2025-10-23,Equipment,Ventilator,units,2,5,10
+2025-10-23,Medicine,Paracetamol,tablets,4315,663,5000
+2025-10-23,Fluid,Glucose,units,470,100,500
+2025-10-23,Fluid,IV Fluid,units,275,36,500
+2025-10-24,Bed,ICU Bed,beds,5,14,20
+2025-10-24,Bed,General Bed,beds,17,89,100
+2025-10-24,Equipment,Ventilator,units,2,6,10
+2025-10-24,Medicine,Paracetamol,tablets,4164,498,5000
+2025-10-24,Fluid,Glucose,units,373,57,500
+2025-10-24,Fluid,IV Fluid,units,471,81,500
+2025-10-25,Bed,ICU Bed,beds,1,15,20
+2025-10-25,Bed,General Bed,beds,27,65,100
+2025-10-25,Equipment,Ventilator,units,4,7,10
+2025-10-25,Medicine,Paracetamol,tablets,4363,396,5000
+2025-10-25,Fluid,Glucose,units,358,92,500
+2025-10-25,Fluid,IV Fluid,units,289,54,500
+2025-10-26,Bed,ICU Bed,beds,3,15,20
+2025-10-26,Bed,General Bed,beds,16,83,100
+2025-10-26,Equipment,Ventilator,units,1,7,10
+2025-10-26,Medicine,Paracetamol,tablets,2734,275,5000
+2025-10-26,Fluid,Glucose,units,399,91,500
+2025-10-26,Fluid,IV Fluid,units,378,97,500
+2025-10-27,Bed,ICU Bed,beds,2,14,20
+2025-10-27,Bed,General Bed,beds,31,67,100
+2025-10-27,Equipment,Ventilator,units,2,5,10
+2025-10-27,Medicine,Paracetamol,tablets,2778,595,5000
+2025-10-27,Fluid,Glucose,units,470,60,500
+2025-10-27,Fluid,IV Fluid,units,353,45,500
+2025-10-28,Bed,ICU Bed,beds,5,15,20
+2025-10-28,Bed,General Bed,beds,33,84,100
+2025-10-28,Equipment,Ventilator,units,1,9,10
+2025-10-28,Medicine,Paracetamol,tablets,2835,464,5000
+2025-10-28,Fluid,Glucose,units,418,96,500
+2025-10-28,Fluid,IV Fluid,units,330,63,500
+2025-10-29,Bed,ICU Bed,beds,2,19,20
+2025-10-29,Bed,General Bed,beds,25,72,100
+2025-10-29,Equipment,Ventilator,units,3,8,10
+2025-10-29,Medicine,Paracetamol,tablets,3036,593,5000
+2025-10-29,Fluid,Glucose,units,415,68,500
+2025-10-29,Fluid,IV Fluid,units,367,70,500
+2025-10-30,Bed,ICU Bed,beds,1,14,20
+2025-10-30,Bed,General Bed,beds,29,84,100
+2025-10-30,Equipment,Ventilator,units,1,5,10
+2025-10-30,Medicine,Paracetamol,tablets,4702,359,5000
+2025-10-30,Fluid,Glucose,units,379,63,500
+2025-10-30,Fluid,IV Fluid,units,283,74,500
+2025-10-31,Bed,ICU Bed,beds,1,15,20
+2025-10-31,Bed,General Bed,beds,26,74,100
+2025-10-31,Equipment,Ventilator,units,2,8,10
+2025-10-31,Medicine,Paracetamol,tablets,4725,610,5000
+2025-10-31,Fluid,Glucose,units,327,97,500
+2025-10-31,Fluid,IV Fluid,units,252,100,500
+2025-11-01,Bed,ICU Bed,beds,3,19,20
+2025-11-01,Bed,General Bed,beds,18,69,100
+2025-11-01,Equipment,Ventilator,units,3,5,10
+2025-11-01,Medicine,Paracetamol,tablets,2938,630,5000
+2025-11-01,Fluid,Glucose,units,391,49,500
+2025-11-01,Fluid,IV Fluid,units,319,66,500
+2025-11-02,Bed,ICU Bed,beds,5,15,20
+2025-11-02,Bed,General Bed,beds,25,71,100
+2025-11-02,Equipment,Ventilator,units,3,9,10
+2025-11-02,Medicine,Paracetamol,tablets,4501,378,5000
+2025-11-02,Fluid,Glucose,units,466,36,500
+2025-11-02,Fluid,IV Fluid,units,273,84,500
+2025-11-03,Bed,ICU Bed,beds,3,14,20
+2025-11-03,Bed,General Bed,beds,15,75,100
+2025-11-03,Equipment,Ventilator,units,2,7,10
+2025-11-03,Medicine,Paracetamol,tablets,3161,629,5000
+2025-11-03,Fluid,Glucose,units,363,100,500
+2025-11-03,Fluid,IV Fluid,units,430,84,500
+2025-11-04,Bed,ICU Bed,beds,5,14,20
+2025-11-04,Bed,General Bed,beds,18,67,100
+2025-11-04,Equipment,Ventilator,units,2,9,10
+2025-11-04,Medicine,Paracetamol,tablets,2647,677,5000
+2025-11-04,Fluid,Glucose,units,344,100,500
+2025-11-04,Fluid,IV Fluid,units,287,85,500
+2025-11-05,Bed,ICU Bed,beds,2,14,20
+2025-11-05,Bed,General Bed,beds,24,76,100
+2025-11-05,Equipment,Ventilator,units,1,7,10
+2025-11-05,Medicine,Paracetamol,tablets,3360,599,5000
+2025-11-05,Fluid,Glucose,units,313,43,500
+2025-11-05,Fluid,IV Fluid,units,340,82,500
+2025-11-06,Bed,ICU Bed,beds,5,19,20
+2025-11-06,Bed,General Bed,beds,19,72,100
+2025-11-06,Equipment,Ventilator,units,2,6,10
+2025-11-06,Medicine,Paracetamol,tablets,4188,262,5000
+2025-11-06,Fluid,Glucose,units,295,72,500
+2025-11-06,Fluid,IV Fluid,units,450,82,500
+2025-11-07,Bed,ICU Bed,beds,2,16,20
+2025-11-07,Bed,General Bed,beds,20,90,100
+2025-11-07,Equipment,Ventilator,units,1,8,10
+2025-11-07,Medicine,Paracetamol,tablets,2658,689,5000
+2025-11-07,Fluid,Glucose,units,370,58,500
+2025-11-07,Fluid,IV Fluid,units,301,88,500
+2025-11-08,Bed,ICU Bed,beds,3,16,20
+2025-11-08,Bed,General Bed,beds,22,72,100
+2025-11-08,Equipment,Ventilator,units,1,6,10
+2025-11-08,Medicine,Paracetamol,tablets,4132,418,5000
+2025-11-08,Fluid,Glucose,units,321,38,500
+2025-11-08,Fluid,IV Fluid,units,447,65,500
+2025-11-09,Bed,ICU Bed,beds,3,19,20
+2025-11-09,Bed,General Bed,beds,31,77,100
+2025-11-09,Equipment,Ventilator,units,3,5,10
+2025-11-09,Medicine,Paracetamol,tablets,2972,699,5000
+2025-11-09,Fluid,Glucose,units,316,52,500
+2025-11-09,Fluid,IV Fluid,units,398,63,500
+2025-11-10,Bed,ICU Bed,beds,1,14,20
+2025-11-10,Bed,General Bed,beds,34,78,100
+2025-11-10,Equipment,Ventilator,units,3,7,10
+2025-11-10,Medicine,Paracetamol,tablets,4287,560,5000
+2025-11-10,Fluid,Glucose,units,380,44,500
+2025-11-10,Fluid,IV Fluid,units,348,54,500
+2025-11-11,Bed,ICU Bed,beds,3,14,20
+2025-11-11,Bed,General Bed,beds,28,65,100
+2025-11-11,Equipment,Ventilator,units,2,7,10
+2025-11-11,Medicine,Paracetamol,tablets,4266,285,5000
+2025-11-11,Fluid,Glucose,units,420,72,500
+2025-11-11,Fluid,IV Fluid,units,409,70,500
+2025-11-12,Bed,ICU Bed,beds,1,19,20
+2025-11-12,Bed,General Bed,beds,24,81,100
+2025-11-12,Equipment,Ventilator,units,3,8,10
+2025-11-12,Medicine,Paracetamol,tablets,3836,456,5000
+2025-11-12,Fluid,Glucose,units,428,67,500
+2025-11-12,Fluid,IV Fluid,units,391,46,500
+2025-11-13,Bed,ICU Bed,beds,2,17,20
+2025-11-13,Bed,General Bed,beds,27,86,100
+2025-11-13,Equipment,Ventilator,units,2,9,10
+2025-11-13,Medicine,Paracetamol,tablets,3732,457,5000
+2025-11-13,Fluid,Glucose,units,390,30,500
+2025-11-13,Fluid,IV Fluid,units,327,66,500
+2025-11-14,Bed,ICU Bed,beds,2,17,20
+2025-11-14,Bed,General Bed,beds,33,84,100
+2025-11-14,Equipment,Ventilator,units,3,8,10
+2025-11-14,Medicine,Paracetamol,tablets,4309,476,5000
+2025-11-14,Fluid,Glucose,units,422,57,500
+2025-11-14,Fluid,IV Fluid,units,380,90,500
+2025-11-15,Bed,ICU Bed,beds,2,19,20
+2025-11-15,Bed,General Bed,beds,17,74,100
+2025-11-15,Equipment,Ventilator,units,3,5,10
+2025-11-15,Medicine,Paracetamol,tablets,3462,594,5000
+2025-11-15,Fluid,Glucose,units,329,58,500
+2025-11-15,Fluid,IV Fluid,units,456,55,500
+2025-11-16,Bed,ICU Bed,beds,2,14,20
+2025-11-16,Bed,General Bed,beds,16,72,100
+2025-11-16,Equipment,Ventilator,units,4,9,10
+2025-11-16,Medicine,Paracetamol,tablets,2798,483,5000
+2025-11-16,Fluid,Glucose,units,356,54,500
+2025-11-16,Fluid,IV Fluid,units,433,79,500
+2025-11-17,Bed,ICU Bed,beds,4,17,20
+2025-11-17,Bed,General Bed,beds,22,69,100
+2025-11-17,Equipment,Ventilator,units,1,5,10
+2025-11-17,Medicine,Paracetamol,tablets,4241,362,5000
+2025-11-17,Fluid,Glucose,units,295,96,500
+2025-11-17,Fluid,IV Fluid,units,368,36,500
+2025-11-18,Bed,ICU Bed,beds,5,15,20
+2025-11-18,Bed,General Bed,beds,18,79,100
+2025-11-18,Equipment,Ventilator,units,2,8,10
+2025-11-18,Medicine,Paracetamol,tablets,4675,536,5000
+2025-11-18,Fluid,Glucose,units,402,70,500
+2025-11-18,Fluid,IV Fluid,units,443,86,500
+2025-11-19,Bed,ICU Bed,beds,5,19,20
+2025-11-19,Bed,General Bed,beds,31,78,100
+2025-11-19,Equipment,Ventilator,units,4,6,10
+2025-11-19,Medicine,Paracetamol,tablets,4444,480,5000
+2025-11-19,Fluid,Glucose,units,316,61,500
+2025-11-19,Fluid,IV Fluid,units,465,65,500
+2025-11-20,Bed,ICU Bed,beds,5,17,20
+2025-11-20,Bed,General Bed,beds,35,72,100
+2025-11-20,Equipment,Ventilator,units,3,8,10
+2025-11-20,Medicine,Paracetamol,tablets,2817,615,5000
+2025-11-20,Fluid,Glucose,units,323,60,500
+2025-11-20,Fluid,IV Fluid,units,319,72,500
+2025-11-21,Bed,ICU Bed,beds,3,18,20
+2025-11-21,Bed,General Bed,beds,17,69,100
+2025-11-21,Equipment,Ventilator,units,2,6,10
+2025-11-21,Medicine,Paracetamol,tablets,4068,605,5000
+2025-11-21,Fluid,Glucose,units,289,57,500
+2025-11-21,Fluid,IV Fluid,units,266,83,500
+2025-11-22,Bed,ICU Bed,beds,4,16,20
+2025-11-22,Bed,General Bed,beds,32,79,100
+2025-11-22,Equipment,Ventilator,units,4,5,10
+2025-11-22,Medicine,Paracetamol,tablets,3347,676,5000
+2025-11-22,Fluid,Glucose,units,357,79,500
+2025-11-22,Fluid,IV Fluid,units,447,32,500
+2025-11-23,Bed,ICU Bed,beds,5,17,20
+2025-11-23,Bed,General Bed,beds,30,65,100
+2025-11-23,Equipment,Ventilator,units,3,7,10
+2025-11-23,Medicine,Paracetamol,tablets,4097,686,5000
+2025-11-23,Fluid,Glucose,units,478,83,500
+2025-11-23,Fluid,IV Fluid,units,387,99,500
+2025-11-24,Bed,ICU Bed,beds,5,15,20
+2025-11-24,Bed,General Bed,beds,30,72,100
+2025-11-24,Equipment,Ventilator,units,3,8,10
+2025-11-24,Medicine,Paracetamol,tablets,4489,264,5000
+2025-11-24,Fluid,Glucose,units,349,73,500
+2025-11-24,Fluid,IV Fluid,units,421,81,500
+2025-11-25,Bed,ICU Bed,beds,2,17,20
+2025-11-25,Bed,General Bed,beds,19,84,100
+2025-11-25,Equipment,Ventilator,units,1,8,10
+2025-11-25,Medicine,Paracetamol,tablets,2611,292,5000
+2025-11-25,Fluid,Glucose,units,414,84,500
+2025-11-25,Fluid,IV Fluid,units,284,89,500
+2025-11-26,Bed,ICU Bed,beds,2,14,20
+2025-11-26,Bed,General Bed,beds,23,77,100
+2025-11-26,Equipment,Ventilator,units,3,6,10
+2025-11-26,Medicine,Paracetamol,tablets,4362,417,5000
+2025-11-26,Fluid,Glucose,units,336,78,500
+2025-11-26,Fluid,IV Fluid,units,321,83,500
+2025-11-27,Bed,ICU Bed,beds,3,14,20
+2025-11-27,Bed,General Bed,beds,30,65,100
+2025-11-27,Equipment,Ventilator,units,1,7,10
+2025-11-27,Medicine,Paracetamol,tablets,3418,582,5000
+2025-11-27,Fluid,Glucose,units,267,35,500
+2025-11-27,Fluid,IV Fluid,units,443,33,500
+2025-11-28,Bed,ICU Bed,beds,2,15,20
+2025-11-28,Bed,General Bed,beds,15,84,100
+2025-11-28,Equipment,Ventilator,units,2,6,10
+2025-11-28,Medicine,Paracetamol,tablets,3017,492,5000
+2025-11-28,Fluid,Glucose,units,421,44,500
+2025-11-28,Fluid,IV Fluid,units,394,57,500
+2025-11-29,Bed,ICU Bed,beds,4,19,20
+2025-11-29,Bed,General Bed,beds,23,89,100
+2025-11-29,Equipment,Ventilator,units,3,6,10
+2025-11-29,Medicine,Paracetamol,tablets,2969,648,5000
+2025-11-29,Fluid,Glucose,units,459,50,500
+2025-11-29,Fluid,IV Fluid,units,329,43,500
+2025-11-30,Bed,ICU Bed,beds,5,14,20
+2025-11-30,Bed,General Bed,beds,24,83,100
+2025-11-30,Equipment,Ventilator,units,4,8,10
+2025-11-30,Medicine,Paracetamol,tablets,3312,288,5000
+2025-11-30,Fluid,Glucose,units,401,61,500
+2025-11-30,Fluid,IV Fluid,units,276,68,500
+2025-12-01,Bed,ICU Bed,beds,5,14,20
+2025-12-01,Bed,General Bed,beds,33,90,100
+2025-12-01,Equipment,Ventilator,units,1,7,10
+2025-12-01,Medicine,Paracetamol,tablets,4682,469,5000
+2025-12-01,Fluid,Glucose,units,419,77,500
+2025-12-01,Fluid,IV Fluid,units,267,94,500
+2025-12-02,Bed,ICU Bed,beds,3,14,20
+2025-12-02,Bed,General Bed,beds,28,80,100
+2025-12-02,Equipment,Ventilator,units,1,8,10
+2025-12-02,Medicine,Paracetamol,tablets,3983,575,5000
+2025-12-02,Fluid,Glucose,units,478,88,500
+2025-12-02,Fluid,IV Fluid,units,431,49,500
+2025-12-03,Bed,ICU Bed,beds,4,15,20
+2025-12-03,Bed,General Bed,beds,31,85,100
+2025-12-03,Equipment,Ventilator,units,3,9,10
+2025-12-03,Medicine,Paracetamol,tablets,4704,646,5000
+2025-12-03,Fluid,Glucose,units,373,89,500
+2025-12-03,Fluid,IV Fluid,units,361,64,500
+2025-12-04,Bed,ICU Bed,beds,3,15,20
+2025-12-04,Bed,General Bed,beds,17,73,100
+2025-12-04,Equipment,Ventilator,units,4,6,10
+2025-12-04,Medicine,Paracetamol,tablets,4403,541,5000
+2025-12-04,Fluid,Glucose,units,406,78,500
+2025-12-04,Fluid,IV Fluid,units,336,33,500
+2025-12-05,Bed,ICU Bed,beds,4,16,20
+2025-12-05,Bed,General Bed,beds,20,80,100
+2025-12-05,Equipment,Ventilator,units,2,7,10
+2025-12-05,Medicine,Paracetamol,tablets,3558,424,5000
+2025-12-05,Fluid,Glucose,units,321,65,500
+2025-12-05,Fluid,IV Fluid,units,392,31,500
+2025-12-06,Bed,ICU Bed,beds,5,15,20
+2025-12-06,Bed,General Bed,beds,17,72,100
+2025-12-06,Equipment,Ventilator,units,4,8,10
+2025-12-06,Medicine,Paracetamol,tablets,4774,638,5000
+2025-12-06,Fluid,Glucose,units,311,90,500
+2025-12-06,Fluid,IV Fluid,units,415,92,500
+2025-12-07,Bed,ICU Bed,beds,4,14,20
+2025-12-07,Bed,General Bed,beds,17,74,100
+2025-12-07,Equipment,Ventilator,units,2,8,10
+2025-12-07,Medicine,Paracetamol,tablets,3496,406,5000
+2025-12-07,Fluid,Glucose,units,419,77,500
+2025-12-07,Fluid,IV Fluid,units,371,100,500
+2025-12-08,Bed,ICU Bed,beds,5,16,20
+2025-12-08,Bed,General Bed,beds,28,88,100
+2025-12-08,Equipment,Ventilator,units,3,7,10
+2025-12-08,Medicine,Paracetamol,tablets,4358,388,5000
+2025-12-08,Fluid,Glucose,units,328,62,500
+2025-12-08,Fluid,IV Fluid,units,309,45,500
+2025-12-09,Bed,ICU Bed,beds,2,16,20
+2025-12-09,Bed,General Bed,beds,18,88,100
+2025-12-09,Equipment,Ventilator,units,2,6,10
+2025-12-09,Medicine,Paracetamol,tablets,3386,628,5000
+2025-12-09,Fluid,Glucose,units,373,65,500
+2025-12-09,Fluid,IV Fluid,units,435,97,500
+2025-12-10,Bed,ICU Bed,beds,5,16,20
+2025-12-10,Bed,General Bed,beds,18,71,100
+2025-12-10,Equipment,Ventilator,units,3,6,10
+2025-12-10,Medicine,Paracetamol,tablets,3978,341,5000
+2025-12-10,Fluid,Glucose,units,327,31,500
+2025-12-10,Fluid,IV Fluid,units,431,98,500
+2025-12-11,Bed,ICU Bed,beds,2,16,20
+2025-12-11,Bed,General Bed,beds,16,66,100
+2025-12-11,Equipment,Ventilator,units,3,6,10
+2025-12-11,Medicine,Paracetamol,tablets,4510,302,5000
+2025-12-11,Fluid,Glucose,units,473,31,500
+2025-12-11,Fluid,IV Fluid,units,396,66,500
+2025-12-12,Bed,ICU Bed,beds,4,17,20
+2025-12-12,Bed,General Bed,beds,29,75,100
+2025-12-12,Equipment,Ventilator,units,2,5,10
+2025-12-12,Medicine,Paracetamol,tablets,3534,691,5000
+2025-12-12,Fluid,Glucose,units,372,44,500
+2025-12-12,Fluid,IV Fluid,units,460,38,500
+2025-12-13,Bed,ICU Bed,beds,4,17,20
+2025-12-13,Bed,General Bed,beds,17,83,100
+2025-12-13,Equipment,Ventilator,units,1,6,10
+2025-12-13,Medicine,Paracetamol,tablets,3111,665,5000
+2025-12-13,Fluid,Glucose,units,394,68,500
+2025-12-13,Fluid,IV Fluid,units,271,61,500
+2025-12-14,Bed,ICU Bed,beds,1,18,20
+2025-12-14,Bed,General Bed,beds,28,84,100
+2025-12-14,Equipment,Ventilator,units,2,9,10
+2025-12-14,Medicine,Paracetamol,tablets,4058,480,5000
+2025-12-14,Fluid,Glucose,units,363,68,500
+2025-12-14,Fluid,IV Fluid,units,470,84,500
+2025-12-15,Bed,ICU Bed,beds,3,18,20
+2025-12-15,Bed,General Bed,beds,34,66,100
+2025-12-15,Equipment,Ventilator,units,1,6,10
+2025-12-15,Medicine,Paracetamol,tablets,3364,385,5000
+2025-12-15,Fluid,Glucose,units,419,40,500
+2025-12-15,Fluid,IV Fluid,units,290,60,500
+2025-12-16,Bed,ICU Bed,beds,2,18,20
+2025-12-16,Bed,General Bed,beds,17,70,100
+2025-12-16,Equipment,Ventilator,units,1,8,10
+2025-12-16,Medicine,Paracetamol,tablets,4345,602,5000
+2025-12-16,Fluid,Glucose,units,402,90,500
+2025-12-16,Fluid,IV Fluid,units,324,34,500
+2025-12-17,Bed,ICU Bed,beds,2,16,20
+2025-12-17,Bed,General Bed,beds,24,87,100
+2025-12-17,Equipment,Ventilator,units,4,5,10
+2025-12-17,Medicine,Paracetamol,tablets,3456,385,5000
+2025-12-17,Fluid,Glucose,units,451,55,500
+2025-12-17,Fluid,IV Fluid,units,358,44,500
+2025-12-18,Bed,ICU Bed,beds,5,15,20
+2025-12-18,Bed,General Bed,beds,35,69,100
+2025-12-18,Equipment,Ventilator,units,3,6,10
+2025-12-18,Medicine,Paracetamol,tablets,2792,280,5000
+2025-12-18,Fluid,Glucose,units,292,69,500
+2025-12-18,Fluid,IV Fluid,units,402,66,500
+2025-12-19,Bed,ICU Bed,beds,4,14,20
+2025-12-19,Bed,General Bed,beds,29,87,100
+2025-12-19,Equipment,Ventilator,units,3,8,10
+2025-12-19,Medicine,Paracetamol,tablets,3615,506,5000
+2025-12-19,Fluid,Glucose,units,388,93,500
+2025-12-19,Fluid,IV Fluid,units,362,40,500
+2025-12-20,Bed,ICU Bed,beds,5,14,20
+2025-12-20,Bed,General Bed,beds,28,88,100
+2025-12-20,Equipment,Ventilator,units,3,9,10
+2025-12-20,Medicine,Paracetamol,tablets,3525,263,5000
+2025-12-20,Fluid,Glucose,units,273,59,500
+2025-12-20,Fluid,IV Fluid,units,422,32,500
+2025-12-21,Bed,ICU Bed,beds,3,18,20
+2025-12-21,Bed,General Bed,beds,16,89,100
+2025-12-21,Equipment,Ventilator,units,2,8,10
+2025-12-21,Medicine,Paracetamol,tablets,4625,583,5000
+2025-12-21,Fluid,Glucose,units,363,65,500
+2025-12-21,Fluid,IV Fluid,units,296,85,500
+2025-12-22,Bed,ICU Bed,beds,4,14,20
+2025-12-22,Bed,General Bed,beds,30,76,100
+2025-12-22,Equipment,Ventilator,units,4,7,10
+2025-12-22,Medicine,Paracetamol,tablets,3815,593,5000
+2025-12-22,Fluid,Glucose,units,276,50,500
+2025-12-22,Fluid,IV Fluid,units,334,82,500
+2025-12-23,Bed,ICU Bed,beds,4,16,20
+2025-12-23,Bed,General Bed,beds,27,89,100
+2025-12-23,Equipment,Ventilator,units,1,8,10
+2025-12-23,Medicine,Paracetamol,tablets,2860,411,5000
+2025-12-23,Fluid,Glucose,units,314,71,500
+2025-12-23,Fluid,IV Fluid,units,279,81,500
+2025-12-24,Bed,ICU Bed,beds,5,14,20
+2025-12-24,Bed,General Bed,beds,32,79,100
+2025-12-24,Equipment,Ventilator,units,4,5,10
+2025-12-24,Medicine,Paracetamol,tablets,3268,515,5000
+2025-12-24,Fluid,Glucose,units,342,93,500
+2025-12-24,Fluid,IV Fluid,units,410,86,500
+2025-12-25,Bed,ICU Bed,beds,1,15,20
+2025-12-25,Bed,General Bed,beds,23,82,100
+2025-12-25,Equipment,Ventilator,units,2,7,10
+2025-12-25,Medicine,Paracetamol,tablets,4294,700,5000
+2025-12-25,Fluid,Glucose,units,428,92,500
+2025-12-25,Fluid,IV Fluid,units,281,33,500
+2025-12-26,Bed,ICU Bed,beds,5,15,20
+2025-12-26,Bed,General Bed,beds,20,74,100
+2025-12-26,Equipment,Ventilator,units,1,9,10
+2025-12-26,Medicine,Paracetamol,tablets,4171,297,5000
+2025-12-26,Fluid,Glucose,units,307,44,500
+2025-12-26,Fluid,IV Fluid,units,368,45,500
+2025-12-27,Bed,ICU Bed,beds,2,17,20
+2025-12-27,Bed,General Bed,beds,24,81,100
+2025-12-27,Equipment,Ventilator,units,3,8,10
+2025-12-27,Medicine,Paracetamol,tablets,4476,491,5000
+2025-12-27,Fluid,Glucose,units,312,88,500
+2025-12-27,Fluid,IV Fluid,units,391,48,500
+2025-12-28,Bed,ICU Bed,beds,4,15,20
+2025-12-28,Bed,General Bed,beds,34,81,100
+2025-12-28,Equipment,Ventilator,units,2,5,10
+2025-12-28,Medicine,Paracetamol,tablets,3631,645,5000
+2025-12-28,Fluid,Glucose,units,452,83,500
+2025-12-28,Fluid,IV Fluid,units,337,94,500
+2025-12-29,Bed,ICU Bed,beds,3,14,20
+2025-12-29,Bed,General Bed,beds,24,88,100
+2025-12-29,Equipment,Ventilator,units,3,9,10
+2025-12-29,Medicine,Paracetamol,tablets,4505,693,5000
+2025-12-29,Fluid,Glucose,units,288,87,500
+2025-12-29,Fluid,IV Fluid,units,387,91,500
+2025-12-30,Bed,ICU Bed,beds,3,16,20
+2025-12-30,Bed,General Bed,beds,32,89,100
+2025-12-30,Equipment,Ventilator,units,4,8,10
+2025-12-30,Medicine,Paracetamol,tablets,3818,695,5000
+2025-12-30,Fluid,Glucose,units,298,60,500
+2025-12-30,Fluid,IV Fluid,units,396,79,500
+2025-12-31,Bed,ICU Bed,beds,2,17,20
+2025-12-31,Bed,General Bed,beds,16,75,100
+2025-12-31,Equipment,Ventilator,units,4,8,10
+2025-12-31,Medicine,Paracetamol,tablets,4081,589,5000
+2025-12-31,Fluid,Glucose,units,452,49,500
+2025-12-31,Fluid,IV Fluid,units,376,34,500
+2026-01-01,Bed,ICU Bed,beds,2,18,20
+2026-01-01,Bed,General Bed,beds,33,75,100
+2026-01-01,Equipment,Ventilator,units,1,8,10
+2026-01-01,Medicine,Paracetamol,tablets,2908,519,5000
+2026-01-01,Fluid,Glucose,units,366,31,500
+2026-01-01,Fluid,IV Fluid,units,434,48,500
+2026-01-02,Bed,ICU Bed,beds,4,19,20
+2026-01-02,Bed,General Bed,beds,19,67,100
+2026-01-02,Equipment,Ventilator,units,4,7,10
+2026-01-02,Medicine,Paracetamol,tablets,3886,569,5000
+2026-01-02,Fluid,Glucose,units,427,80,500
+2026-01-02,Fluid,IV Fluid,units,416,40,500
+2026-01-03,Bed,ICU Bed,beds,3,19,20
+2026-01-03,Bed,General Bed,beds,32,77,100
+2026-01-03,Equipment,Ventilator,units,3,8,10
+2026-01-03,Medicine,Paracetamol,tablets,4716,268,5000
+2026-01-03,Fluid,Glucose,units,408,38,500
+2026-01-03,Fluid,IV Fluid,units,310,66,500
+2026-01-04,Bed,ICU Bed,beds,2,19,20
+2026-01-04,Bed,General Bed,beds,17,78,100
+2026-01-04,Equipment,Ventilator,units,1,5,10
+2026-01-04,Medicine,Paracetamol,tablets,4317,335,5000
+2026-01-04,Fluid,Glucose,units,427,68,500
+2026-01-04,Fluid,IV Fluid,units,257,35,500
+2026-01-05,Bed,ICU Bed,beds,3,14,20
+2026-01-05,Bed,General Bed,beds,24,76,100
+2026-01-05,Equipment,Ventilator,units,3,8,10
+2026-01-05,Medicine,Paracetamol,tablets,3096,375,5000
+2026-01-05,Fluid,Glucose,units,385,82,500
+2026-01-05,Fluid,IV Fluid,units,394,53,500
+2026-01-06,Bed,ICU Bed,beds,2,15,20
+2026-01-06,Bed,General Bed,beds,17,84,100
+2026-01-06,Equipment,Ventilator,units,4,9,10
+2026-01-06,Medicine,Paracetamol,tablets,3486,504,5000
+2026-01-06,Fluid,Glucose,units,399,48,500
+2026-01-06,Fluid,IV Fluid,units,309,89,500
+2026-01-07,Bed,ICU Bed,beds,3,17,20
+2026-01-07,Bed,General Bed,beds,23,86,100
+2026-01-07,Equipment,Ventilator,units,1,8,10
+2026-01-07,Medicine,Paracetamol,tablets,3678,596,5000
+2026-01-07,Fluid,Glucose,units,389,50,500
+2026-01-07,Fluid,IV Fluid,units,268,86,500
+2026-01-08,Bed,ICU Bed,beds,3,18,20
+2026-01-08,Bed,General Bed,beds,24,85,100
+2026-01-08,Equipment,Ventilator,units,4,7,10
+2026-01-08,Medicine,Paracetamol,tablets,4371,682,5000
+2026-01-08,Fluid,Glucose,units,327,55,500
+2026-01-08,Fluid,IV Fluid,units,348,91,500
+2026-01-09,Bed,ICU Bed,beds,1,15,20
+2026-01-09,Bed,General Bed,beds,27,83,100
+2026-01-09,Equipment,Ventilator,units,3,9,10
+2026-01-09,Medicine,Paracetamol,tablets,3711,608,5000
+2026-01-09,Fluid,Glucose,units,325,32,500
+2026-01-09,Fluid,IV Fluid,units,462,80,500
+2026-01-10,Bed,ICU Bed,beds,3,14,20
+2026-01-10,Bed,General Bed,beds,33,86,100
+2026-01-10,Equipment,Ventilator,units,1,9,10
+2026-01-10,Medicine,Paracetamol,tablets,4534,676,5000
+2026-01-10,Fluid,Glucose,units,323,59,500
+2026-01-10,Fluid,IV Fluid,units,405,75,500
+2026-01-11,Bed,ICU Bed,beds,2,19,20
+2026-01-11,Bed,General Bed,beds,21,84,100
+2026-01-11,Equipment,Ventilator,units,3,6,10
+2026-01-11,Medicine,Paracetamol,tablets,2897,571,5000
+2026-01-11,Fluid,Glucose,units,415,35,500
+2026-01-11,Fluid,IV Fluid,units,329,86,500
+2026-01-12,Bed,ICU Bed,beds,1,18,20
+2026-01-12,Bed,General Bed,beds,26,88,100
+2026-01-12,Equipment,Ventilator,units,2,5,10
+2026-01-12,Medicine,Paracetamol,tablets,3708,417,5000
+2026-01-12,Fluid,Glucose,units,441,83,500
+2026-01-12,Fluid,IV Fluid,units,294,55,500
+2026-01-13,Bed,ICU Bed,beds,2,18,20
+2026-01-13,Bed,General Bed,beds,26,81,100
+2026-01-13,Equipment,Ventilator,units,3,6,10
+2026-01-13,Medicine,Paracetamol,tablets,3552,672,5000
+2026-01-13,Fluid,Glucose,units,373,67,500
+2026-01-13,Fluid,IV Fluid,units,441,73,500
+2026-01-14,Bed,ICU Bed,beds,1,17,20
+2026-01-14,Bed,General Bed,beds,17,69,100
+2026-01-14,Equipment,Ventilator,units,2,8,10
+2026-01-14,Medicine,Paracetamol,tablets,4782,437,5000
+2026-01-14,Fluid,Glucose,units,273,80,500
+2026-01-14,Fluid,IV Fluid,units,253,63,500
+2026-01-15,Bed,ICU Bed,beds,5,14,20
+2026-01-15,Bed,General Bed,beds,29,76,100
+2026-01-15,Equipment,Ventilator,units,3,9,10
+2026-01-15,Medicine,Paracetamol,tablets,4060,671,5000
+2026-01-15,Fluid,Glucose,units,413,77,500
+2026-01-15,Fluid,IV Fluid,units,277,59,500
+2026-01-16,Bed,ICU Bed,beds,4,14,20
+2026-01-16,Bed,General Bed,beds,34,82,100
+2026-01-16,Equipment,Ventilator,units,3,9,10
+2026-01-16,Medicine,Paracetamol,tablets,3406,581,5000
+2026-01-16,Fluid,Glucose,units,266,89,500
+2026-01-16,Fluid,IV Fluid,units,429,68,500
+2026-01-17,Bed,ICU Bed,beds,4,14,20
+2026-01-17,Bed,General Bed,beds,19,66,100
+2026-01-17,Equipment,Ventilator,units,1,7,10
+2026-01-17,Medicine,Paracetamol,tablets,4517,309,5000
+2026-01-17,Fluid,Glucose,units,274,60,500
+2026-01-17,Fluid,IV Fluid,units,477,98,500
+2026-01-18,Bed,ICU Bed,beds,2,17,20
+2026-01-18,Bed,General Bed,beds,29,76,100
+2026-01-18,Equipment,Ventilator,units,4,9,10
+2026-01-18,Medicine,Paracetamol,tablets,3132,462,5000
+2026-01-18,Fluid,Glucose,units,417,42,500
+2026-01-18,Fluid,IV Fluid,units,463,92,500
+2026-01-19,Bed,ICU Bed,beds,5,17,20
+2026-01-19,Bed,General Bed,beds,23,66,100
+2026-01-19,Equipment,Ventilator,units,3,6,10
+2026-01-19,Medicine,Paracetamol,tablets,4316,477,5000
+2026-01-19,Fluid,Glucose,units,310,76,500
+2026-01-19,Fluid,IV Fluid,units,275,77,500
+2026-01-20,Bed,ICU Bed,beds,5,19,20
+2026-01-20,Bed,General Bed,beds,26,66,100
+2026-01-20,Equipment,Ventilator,units,4,7,10
+2026-01-20,Medicine,Paracetamol,tablets,3277,312,5000
+2026-01-20,Fluid,Glucose,units,467,88,500
+2026-01-20,Fluid,IV Fluid,units,273,57,500
+2026-01-21,Bed,ICU Bed,beds,5,14,20
+2026-01-21,Bed,General Bed,beds,16,90,100
+2026-01-21,Equipment,Ventilator,units,3,6,10
+2026-01-21,Medicine,Paracetamol,tablets,3015,652,5000
+2026-01-21,Fluid,Glucose,units,394,56,500
+2026-01-21,Fluid,IV Fluid,units,267,100,500
+2026-01-22,Bed,ICU Bed,beds,2,18,20
+2026-01-22,Bed,General Bed,beds,21,72,100
+2026-01-22,Equipment,Ventilator,units,3,6,10
+2026-01-22,Medicine,Paracetamol,tablets,2511,391,5000
+2026-01-22,Fluid,Glucose,units,469,48,500
+2026-01-22,Fluid,IV Fluid,units,283,99,500
+2026-01-23,Bed,ICU Bed,beds,3,15,20
+2026-01-23,Bed,General Bed,beds,18,86,100
+2026-01-23,Equipment,Ventilator,units,1,6,10
+2026-01-23,Medicine,Paracetamol,tablets,2560,433,5000
+2026-01-23,Fluid,Glucose,units,452,60,500
+2026-01-23,Fluid,IV Fluid,units,400,71,500
+2026-01-24,Bed,ICU Bed,beds,1,15,20
+2026-01-24,Bed,General Bed,beds,23,66,100
+2026-01-24,Equipment,Ventilator,units,2,8,10
+2026-01-24,Medicine,Paracetamol,tablets,4654,308,5000
+2026-01-24,Fluid,Glucose,units,440,38,500
+2026-01-24,Fluid,IV Fluid,units,371,87,500
+2026-01-25,Bed,ICU Bed,beds,3,18,20
+2026-01-25,Bed,General Bed,beds,33,68,100
+2026-01-25,Equipment,Ventilator,units,4,9,10
+2026-01-25,Medicine,Paracetamol,tablets,3407,564,5000
+2026-01-25,Fluid,Glucose,units,261,96,500
+2026-01-25,Fluid,IV Fluid,units,327,88,500
+2026-01-26,Bed,ICU Bed,beds,1,14,20
+2026-01-26,Bed,General Bed,beds,30,77,100
+2026-01-26,Equipment,Ventilator,units,4,5,10
+2026-01-26,Medicine,Paracetamol,tablets,4508,614,5000
+2026-01-26,Fluid,Glucose,units,363,39,500
+2026-01-26,Fluid,IV Fluid,units,480,40,500
+2026-01-27,Bed,ICU Bed,beds,3,18,20
+2026-01-27,Bed,General Bed,beds,19,67,100
+2026-01-27,Equipment,Ventilator,units,2,7,10
+2026-01-27,Medicine,Paracetamol,tablets,4746,614,5000
+2026-01-27,Fluid,Glucose,units,333,78,500
+2026-01-27,Fluid,IV Fluid,units,402,97,500
+2026-01-28,Bed,ICU Bed,beds,3,17,20
+2026-01-28,Bed,General Bed,beds,31,84,100
+2026-01-28,Equipment,Ventilator,units,4,5,10
+2026-01-28,Medicine,Paracetamol,tablets,2968,686,5000
+2026-01-28,Fluid,Glucose,units,417,100,500
+2026-01-28,Fluid,IV Fluid,units,434,57,500
+2026-01-29,Bed,ICU Bed,beds,4,17,20
+2026-01-29,Bed,General Bed,beds,22,78,100
+2026-01-29,Equipment,Ventilator,units,3,8,10
+2026-01-29,Medicine,Paracetamol,tablets,4133,462,5000
+2026-01-29,Fluid,Glucose,units,436,42,500
+2026-01-29,Fluid,IV Fluid,units,330,84,500
+2026-01-30,Bed,ICU Bed,beds,3,19,20
+2026-01-30,Bed,General Bed,beds,23,76,100
+2026-01-30,Equipment,Ventilator,units,2,8,10
+2026-01-30,Medicine,Paracetamol,tablets,2774,296,5000
+2026-01-30,Fluid,Glucose,units,462,40,500
+2026-01-30,Fluid,IV Fluid,units,273,85,500
+2026-01-31,Bed,ICU Bed,beds,1,19,20
+2026-01-31,Bed,General Bed,beds,26,90,100
+2026-01-31,Equipment,Ventilator,units,2,9,10
+2026-01-31,Medicine,Paracetamol,tablets,2745,550,5000
+2026-01-31,Fluid,Glucose,units,393,72,500
+2026-01-31,Fluid,IV Fluid,units,421,45,500
+2026-02-01,Bed,ICU Bed,beds,4,16,20
+2026-02-01,Bed,General Bed,beds,28,88,100
+2026-02-01,Equipment,Ventilator,units,1,7,10
+2026-02-01,Medicine,Paracetamol,tablets,3779,430,5000
+2026-02-01,Fluid,Glucose,units,276,94,500
+2026-02-01,Fluid,IV Fluid,units,304,49,500
+2026-02-02,Bed,ICU Bed,beds,4,15,20
+2026-02-02,Bed,General Bed,beds,18,76,100
+2026-02-02,Equipment,Ventilator,units,3,5,10
+2026-02-02,Medicine,Paracetamol,tablets,3641,543,5000
+2026-02-02,Fluid,Glucose,units,307,84,500
+2026-02-02,Fluid,IV Fluid,units,466,33,500
+2026-02-03,Bed,ICU Bed,beds,5,19,20
+2026-02-03,Bed,General Bed,beds,23,65,100
+2026-02-03,Equipment,Ventilator,units,2,7,10
+2026-02-03,Medicine,Paracetamol,tablets,3765,423,5000
+2026-02-03,Fluid,Glucose,units,339,30,500
+2026-02-03,Fluid,IV Fluid,units,296,48,500
+2026-02-04,Bed,ICU Bed,beds,5,19,20
+2026-02-04,Bed,General Bed,beds,27,67,100
+2026-02-04,Equipment,Ventilator,units,2,5,10
+2026-02-04,Medicine,Paracetamol,tablets,2875,632,5000
+2026-02-04,Fluid,Glucose,units,385,57,500
+2026-02-04,Fluid,IV Fluid,units,346,83,500
+2026-02-05,Bed,ICU Bed,beds,4,16,20
+2026-02-05,Bed,General Bed,beds,20,76,100
+2026-02-05,Equipment,Ventilator,units,3,7,10
+2026-02-05,Medicine,Paracetamol,tablets,2847,276,5000
+2026-02-05,Fluid,Glucose,units,289,50,500
+2026-02-05,Fluid,IV Fluid,units,443,36,500
+2026-02-06,Bed,ICU Bed,beds,1,16,20
+2026-02-06,Bed,General Bed,beds,29,86,100
+2026-02-06,Equipment,Ventilator,units,4,8,10
+2026-02-06,Medicine,Paracetamol,tablets,4310,462,5000
+2026-02-06,Fluid,Glucose,units,319,57,500
+2026-02-06,Fluid,IV Fluid,units,443,95,500
+2026-02-07,Bed,ICU Bed,beds,1,16,20
+2026-02-07,Bed,General Bed,beds,28,68,100
+2026-02-07,Equipment,Ventilator,units,3,9,10
+2026-02-07,Medicine,Paracetamol,tablets,4493,519,5000
+2026-02-07,Fluid,Glucose,units,420,69,500
+2026-02-07,Fluid,IV Fluid,units,261,58,500
+2026-02-08,Bed,ICU Bed,beds,4,18,20
+2026-02-08,Bed,General Bed,beds,16,65,100
+2026-02-08,Equipment,Ventilator,units,2,7,10
+2026-02-08,Medicine,Paracetamol,tablets,3365,642,5000
+2026-02-08,Fluid,Glucose,units,285,62,500
+2026-02-08,Fluid,IV Fluid,units,324,71,500
+2026-02-09,Bed,ICU Bed,beds,1,14,20
+2026-02-09,Bed,General Bed,beds,30,88,100
+2026-02-09,Equipment,Ventilator,units,4,6,10
+2026-02-09,Medicine,Paracetamol,tablets,3029,444,5000
+2026-02-09,Fluid,Glucose,units,386,59,500
+2026-02-09,Fluid,IV Fluid,units,378,75,500
+2026-02-10,Bed,ICU Bed,beds,1,17,20
+2026-02-10,Bed,General Bed,beds,16,78,100
+2026-02-10,Equipment,Ventilator,units,1,8,10
+2026-02-10,Medicine,Paracetamol,tablets,2818,691,5000
+2026-02-10,Fluid,Glucose,units,330,84,500
+2026-02-10,Fluid,IV Fluid,units,396,81,500
+2026-02-11,Bed,ICU Bed,beds,4,16,20
+2026-02-11,Bed,General Bed,beds,18,77,100
+2026-02-11,Equipment,Ventilator,units,1,7,10
+2026-02-11,Medicine,Paracetamol,tablets,3203,660,5000
+2026-02-11,Fluid,Glucose,units,408,88,500
+2026-02-11,Fluid,IV Fluid,units,462,76,500
+2026-02-12,Bed,ICU Bed,beds,1,17,20
+2026-02-12,Bed,General Bed,beds,18,72,100
+2026-02-12,Equipment,Ventilator,units,4,9,10
+2026-02-12,Medicine,Paracetamol,tablets,4140,518,5000
+2026-02-12,Fluid,Glucose,units,270,80,500
+2026-02-12,Fluid,IV Fluid,units,472,69,500
+2026-02-13,Bed,ICU Bed,beds,3,15,20
+2026-02-13,Bed,General Bed,beds,25,89,100
+2026-02-13,Equipment,Ventilator,units,2,5,10
+2026-02-13,Medicine,Paracetamol,tablets,4590,574,5000
+2026-02-13,Fluid,Glucose,units,279,97,500
+2026-02-13,Fluid,IV Fluid,units,380,54,500
+2026-02-14,Bed,ICU Bed,beds,3,16,20
+2026-02-14,Bed,General Bed,beds,35,69,100
+2026-02-14,Equipment,Ventilator,units,2,5,10
+2026-02-14,Medicine,Paracetamol,tablets,3099,381,5000
+2026-02-14,Fluid,Glucose,units,300,52,500
+2026-02-14,Fluid,IV Fluid,units,404,49,500
+2026-02-15,Bed,ICU Bed,beds,1,15,20
+2026-02-15,Bed,General Bed,beds,35,80,100
+2026-02-15,Equipment,Ventilator,units,4,9,10
+2026-02-15,Medicine,Paracetamol,tablets,4338,598,5000
+2026-02-15,Fluid,Glucose,units,475,71,500
+2026-02-15,Fluid,IV Fluid,units,471,70,500
+2026-02-16,Bed,ICU Bed,beds,2,17,20
+2026-02-16,Bed,General Bed,beds,17,80,100
+2026-02-16,Equipment,Ventilator,units,4,7,10
+2026-02-16,Medicine,Paracetamol,tablets,3625,552,5000
+2026-02-16,Fluid,Glucose,units,264,75,500
+2026-02-16,Fluid,IV Fluid,units,379,39,500
+2026-02-17,Bed,ICU Bed,beds,3,17,20
+2026-02-17,Bed,General Bed,beds,29,66,100
+2026-02-17,Equipment,Ventilator,units,1,7,10
+2026-02-17,Medicine,Paracetamol,tablets,3675,289,5000
+2026-02-17,Fluid,Glucose,units,415,41,500
+2026-02-17,Fluid,IV Fluid,units,407,94,500
+2026-02-18,Bed,ICU Bed,beds,4,17,20
+2026-02-18,Bed,General Bed,beds,33,82,100
+2026-02-18,Equipment,Ventilator,units,1,8,10
+2026-02-18,Medicine,Paracetamol,tablets,3271,414,5000
+2026-02-18,Fluid,Glucose,units,404,90,500
+2026-02-18,Fluid,IV Fluid,units,378,49,500
+2026-02-19,Bed,ICU Bed,beds,1,17,20
+2026-02-19,Bed,General Bed,beds,18,90,100
+2026-02-19,Equipment,Ventilator,units,3,5,10
+2026-02-19,Medicine,Paracetamol,tablets,4566,580,5000
+2026-02-19,Fluid,Glucose,units,294,35,500
+2026-02-19,Fluid,IV Fluid,units,313,86,500
+2026-02-20,Bed,ICU Bed,beds,4,18,20
+2026-02-20,Bed,General Bed,beds,31,84,100
+2026-02-20,Equipment,Ventilator,units,2,7,10
+2026-02-20,Medicine,Paracetamol,tablets,4027,394,5000
+2026-02-20,Fluid,Glucose,units,349,82,500
+2026-02-20,Fluid,IV Fluid,units,448,73,500
+2026-02-21,Bed,ICU Bed,beds,5,14,20
+2026-02-21,Bed,General Bed,beds,35,85,100
+2026-02-21,Equipment,Ventilator,units,3,5,10
+2026-02-21,Medicine,Paracetamol,tablets,3850,298,5000
+2026-02-21,Fluid,Glucose,units,392,79,500
+2026-02-21,Fluid,IV Fluid,units,322,62,500
+2026-02-22,Bed,ICU Bed,beds,5,15,20
+2026-02-22,Bed,General Bed,beds,25,67,100
+2026-02-22,Equipment,Ventilator,units,2,7,10
+2026-02-22,Medicine,Paracetamol,tablets,3770,585,5000
+2026-02-22,Fluid,Glucose,units,428,80,500
+2026-02-22,Fluid,IV Fluid,units,283,40,500
+2026-02-23,Bed,ICU Bed,beds,3,18,20
+2026-02-23,Bed,General Bed,beds,27,85,100
+2026-02-23,Equipment,Ventilator,units,3,6,10
+2026-02-23,Medicine,Paracetamol,tablets,4656,297,5000
+2026-02-23,Fluid,Glucose,units,415,84,500
+2026-02-23,Fluid,IV Fluid,units,380,76,500
+2026-02-24,Bed,ICU Bed,beds,1,16,20
+2026-02-24,Bed,General Bed,beds,24,70,100
+2026-02-24,Equipment,Ventilator,units,2,7,10
+2026-02-24,Medicine,Paracetamol,tablets,4491,348,5000
+2026-02-24,Fluid,Glucose,units,307,47,500
+2026-02-24,Fluid,IV Fluid,units,289,39,500
+2026-02-25,Bed,ICU Bed,beds,3,14,20
+2026-02-25,Bed,General Bed,beds,31,89,100
+2026-02-25,Equipment,Ventilator,units,1,7,10
+2026-02-25,Medicine,Paracetamol,tablets,3036,555,5000
+2026-02-25,Fluid,Glucose,units,346,49,500
+2026-02-25,Fluid,IV Fluid,units,291,53,500
+2026-02-26,Bed,ICU Bed,beds,5,15,20
+2026-02-26,Bed,General Bed,beds,29,66,100
+2026-02-26,Equipment,Ventilator,units,4,7,10
+2026-02-26,Medicine,Paracetamol,tablets,3472,477,5000
+2026-02-26,Fluid,Glucose,units,406,66,500
+2026-02-26,Fluid,IV Fluid,units,442,87,500
+2026-02-27,Bed,ICU Bed,beds,2,18,20
+2026-02-27,Bed,General Bed,beds,22,74,100
+2026-02-27,Equipment,Ventilator,units,4,6,10
+2026-02-27,Medicine,Paracetamol,tablets,4006,597,5000
+2026-02-27,Fluid,Glucose,units,396,86,500
+2026-02-27,Fluid,IV Fluid,units,368,66,500
+2026-02-28,Bed,ICU Bed,beds,4,18,20
+2026-02-28,Bed,General Bed,beds,31,78,100
+2026-02-28,Equipment,Ventilator,units,2,6,10
+2026-02-28,Medicine,Paracetamol,tablets,3066,696,5000
+2026-02-28,Fluid,Glucose,units,314,36,500
+2026-02-28,Fluid,IV Fluid,units,414,91,500
+2026-03-01,Bed,ICU Bed,beds,3,18,20
+2026-03-01,Bed,General Bed,beds,18,87,100
+2026-03-01,Equipment,Ventilator,units,1,7,10
+2026-03-01,Medicine,Paracetamol,tablets,2843,640,5000
+2026-03-01,Fluid,Glucose,units,291,64,500
+2026-03-01,Fluid,IV Fluid,units,365,95,500
+2026-03-02,Bed,ICU Bed,beds,2,17,20
+2026-03-02,Bed,General Bed,beds,17,72,100
+2026-03-02,Equipment,Ventilator,units,4,7,10
+2026-03-02,Medicine,Paracetamol,tablets,2609,462,5000
+2026-03-02,Fluid,Glucose,units,263,80,500
+2026-03-02,Fluid,IV Fluid,units,378,77,500
+2026-03-03,Bed,ICU Bed,beds,2,17,20
+2026-03-03,Bed,General Bed,beds,17,76,100
+2026-03-03,Equipment,Ventilator,units,2,5,10
+2026-03-03,Medicine,Paracetamol,tablets,3805,300,5000
+2026-03-03,Fluid,Glucose,units,464,72,500
+2026-03-03,Fluid,IV Fluid,units,452,48,500
+2026-03-04,Bed,ICU Bed,beds,2,14,20
+2026-03-04,Bed,General Bed,beds,24,80,100
+2026-03-04,Equipment,Ventilator,units,2,8,10
+2026-03-04,Medicine,Paracetamol,tablets,4337,565,5000
+2026-03-04,Fluid,Glucose,units,251,40,500
+2026-03-04,Fluid,IV Fluid,units,254,62,500
+2026-03-05,Bed,ICU Bed,beds,2,15,20
+2026-03-05,Bed,General Bed,beds,32,88,100
+2026-03-05,Equipment,Ventilator,units,4,5,10
+2026-03-05,Medicine,Paracetamol,tablets,3680,371,5000
+2026-03-05,Fluid,Glucose,units,327,45,500
+2026-03-05,Fluid,IV Fluid,units,262,60,500
+2026-03-06,Bed,ICU Bed,beds,4,19,20
+2026-03-06,Bed,General Bed,beds,34,79,100
+2026-03-06,Equipment,Ventilator,units,1,5,10
+2026-03-06,Medicine,Paracetamol,tablets,4547,555,5000
+2026-03-06,Fluid,Glucose,units,387,32,500
+2026-03-06,Fluid,IV Fluid,units,411,95,500
+2026-03-07,Bed,ICU Bed,beds,5,15,20
+2026-03-07,Bed,General Bed,beds,19,74,100
+2026-03-07,Equipment,Ventilator,units,4,5,10
+2026-03-07,Medicine,Paracetamol,tablets,3945,373,5000
+2026-03-07,Fluid,Glucose,units,396,83,500
+2026-03-07,Fluid,IV Fluid,units,297,40,500
+2026-03-08,Bed,ICU Bed,beds,5,16,20
+2026-03-08,Bed,General Bed,beds,17,81,100
+2026-03-08,Equipment,Ventilator,units,1,8,10
+2026-03-08,Medicine,Paracetamol,tablets,4425,272,5000
+2026-03-08,Fluid,Glucose,units,412,79,500
+2026-03-08,Fluid,IV Fluid,units,345,62,500
+2026-03-09,Bed,ICU Bed,beds,1,16,20
+2026-03-09,Bed,General Bed,beds,17,76,100
+2026-03-09,Equipment,Ventilator,units,2,5,10
+2026-03-09,Medicine,Paracetamol,tablets,3861,318,5000
+2026-03-09,Fluid,Glucose,units,261,75,500
+2026-03-09,Fluid,IV Fluid,units,389,73,500
+2026-03-10,Bed,ICU Bed,beds,2,19,20
+2026-03-10,Bed,General Bed,beds,29,87,100
+2026-03-10,Equipment,Ventilator,units,4,6,10
+2026-03-10,Medicine,Paracetamol,tablets,3052,282,5000
+2026-03-10,Fluid,Glucose,units,433,88,500
+2026-03-10,Fluid,IV Fluid,units,259,67,500
+2026-03-11,Bed,ICU Bed,beds,2,14,20
+2026-03-11,Bed,General Bed,beds,21,66,100
+2026-03-11,Equipment,Ventilator,units,3,7,10
+2026-03-11,Medicine,Paracetamol,tablets,4611,453,5000
+2026-03-11,Fluid,Glucose,units,458,99,500
+2026-03-11,Fluid,IV Fluid,units,371,62,500
+2026-03-12,Bed,ICU Bed,beds,1,19,20
+2026-03-12,Bed,General Bed,beds,21,74,100
+2026-03-12,Equipment,Ventilator,units,3,5,10
+2026-03-12,Medicine,Paracetamol,tablets,3859,389,5000
+2026-03-12,Fluid,Glucose,units,281,77,500
+2026-03-12,Fluid,IV Fluid,units,361,81,500
+2026-03-13,Bed,ICU Bed,beds,4,17,20
+2026-03-13,Bed,General Bed,beds,25,70,100
+2026-03-13,Equipment,Ventilator,units,4,8,10
+2026-03-13,Medicine,Paracetamol,tablets,4004,658,5000
+2026-03-13,Fluid,Glucose,units,382,64,500
+2026-03-13,Fluid,IV Fluid,units,455,40,500
+2026-03-14,Bed,ICU Bed,beds,4,14,20
+2026-03-14,Bed,General Bed,beds,28,84,100
+2026-03-14,Equipment,Ventilator,units,2,9,10
+2026-03-14,Medicine,Paracetamol,tablets,3703,414,5000
+2026-03-14,Fluid,Glucose,units,276,40,500
+2026-03-14,Fluid,IV Fluid,units,333,67,500
+2026-03-15,Bed,ICU Bed,beds,3,17,20
+2026-03-15,Bed,General Bed,beds,34,87,100
+2026-03-15,Equipment,Ventilator,units,4,6,10
+2026-03-15,Medicine,Paracetamol,tablets,4318,429,5000
+2026-03-15,Fluid,Glucose,units,364,35,500
+2026-03-15,Fluid,IV Fluid,units,436,75,500
+2026-03-16,Bed,ICU Bed,beds,5,17,20
+2026-03-16,Bed,General Bed,beds,23,85,100
+2026-03-16,Equipment,Ventilator,units,1,5,10
+2026-03-16,Medicine,Paracetamol,tablets,4163,436,5000
+2026-03-16,Fluid,Glucose,units,381,50,500
+2026-03-16,Fluid,IV Fluid,units,257,48,500
+2026-03-17,Bed,ICU Bed,beds,5,19,20
+2026-03-17,Bed,General Bed,beds,29,66,100
+2026-03-17,Equipment,Ventilator,units,2,5,10
+2026-03-17,Medicine,Paracetamol,tablets,3466,648,5000
+2026-03-17,Fluid,Glucose,units,415,76,500
+2026-03-17,Fluid,IV Fluid,units,342,79,500
+2026-03-18,Bed,ICU Bed,beds,5,14,20
+2026-03-18,Bed,General Bed,beds,34,69,100
+2026-03-18,Equipment,Ventilator,units,4,7,10
+2026-03-18,Medicine,Paracetamol,tablets,4023,477,5000
+2026-03-18,Fluid,Glucose,units,445,39,500
+2026-03-18,Fluid,IV Fluid,units,396,47,500
+2026-03-19,Bed,ICU Bed,beds,5,16,20
+2026-03-19,Bed,General Bed,beds,27,75,100
+2026-03-19,Equipment,Ventilator,units,3,6,10
+2026-03-19,Medicine,Paracetamol,tablets,2964,263,5000
+2026-03-19,Fluid,Glucose,units,438,53,500
+2026-03-19,Fluid,IV Fluid,units,377,96,500
+2026-03-20,Bed,ICU Bed,beds,4,18,20
+2026-03-20,Bed,General Bed,beds,18,73,100
+2026-03-20,Equipment,Ventilator,units,3,8,10
+2026-03-20,Medicine,Paracetamol,tablets,3378,563,5000
+2026-03-20,Fluid,Glucose,units,323,92,500
+2026-03-20,Fluid,IV Fluid,units,301,45,500
+2026-03-21,Bed,ICU Bed,beds,2,14,20
+2026-03-21,Bed,General Bed,beds,29,70,100
+2026-03-21,Equipment,Ventilator,units,4,5,10
+2026-03-21,Medicine,Paracetamol,tablets,3809,591,5000
+2026-03-21,Fluid,Glucose,units,338,38,500
+2026-03-21,Fluid,IV Fluid,units,390,99,500
+2026-03-22,Bed,ICU Bed,beds,3,16,20
+2026-03-22,Bed,General Bed,beds,20,87,100
+2026-03-22,Equipment,Ventilator,units,2,7,10
+2026-03-22,Medicine,Paracetamol,tablets,4583,364,5000
+2026-03-22,Fluid,Glucose,units,281,55,500
+2026-03-22,Fluid,IV Fluid,units,452,47,500
+2026-03-23,Bed,ICU Bed,beds,2,17,20
+2026-03-23,Bed,General Bed,beds,15,76,100
+2026-03-23,Equipment,Ventilator,units,3,8,10
+2026-03-23,Medicine,Paracetamol,tablets,4759,316,5000
+2026-03-23,Fluid,Glucose,units,406,41,500
+2026-03-23,Fluid,IV Fluid,units,266,69,500
+2026-03-24,Bed,ICU Bed,beds,4,19,20
+2026-03-24,Bed,General Bed,beds,30,81,100
+2026-03-24,Equipment,Ventilator,units,4,8,10
+2026-03-24,Medicine,Paracetamol,tablets,2802,314,5000
+2026-03-24,Fluid,Glucose,units,331,39,500
+2026-03-24,Fluid,IV Fluid,units,365,89,500
+2026-03-25,Bed,ICU Bed,beds,5,16,20
+2026-03-25,Bed,General Bed,beds,19,89,100
+2026-03-25,Equipment,Ventilator,units,2,6,10
+2026-03-25,Medicine,Paracetamol,tablets,4272,507,5000
+2026-03-25,Fluid,Glucose,units,472,37,500
+2026-03-25,Fluid,IV Fluid,units,462,45,500
+2026-03-26,Bed,ICU Bed,beds,5,15,20
+2026-03-26,Bed,General Bed,beds,24,70,100
+2026-03-26,Equipment,Ventilator,units,2,7,10
+2026-03-26,Medicine,Paracetamol,tablets,3423,427,5000
+2026-03-26,Fluid,Glucose,units,382,66,500
+2026-03-26,Fluid,IV Fluid,units,466,40,500
+2026-03-27,Bed,ICU Bed,beds,3,15,20
+2026-03-27,Bed,General Bed,beds,35,82,100
+2026-03-27,Equipment,Ventilator,units,3,6,10
+2026-03-27,Medicine,Paracetamol,tablets,3740,564,5000
+2026-03-27,Fluid,Glucose,units,386,41,500
+2026-03-27,Fluid,IV Fluid,units,378,51,500
+2026-03-28,Bed,ICU Bed,beds,5,18,20
+2026-03-28,Bed,General Bed,beds,19,70,100
+2026-03-28,Equipment,Ventilator,units,3,9,10
+2026-03-28,Medicine,Paracetamol,tablets,2668,672,5000
+2026-03-28,Fluid,Glucose,units,471,33,500
+2026-03-28,Fluid,IV Fluid,units,270,35,500
+2026-03-29,Bed,ICU Bed,beds,5,16,20
+2026-03-29,Bed,General Bed,beds,35,71,100
+2026-03-29,Equipment,Ventilator,units,4,9,10
+2026-03-29,Medicine,Paracetamol,tablets,2624,504,5000
+2026-03-29,Fluid,Glucose,units,477,99,500
+2026-03-29,Fluid,IV Fluid,units,324,68,500
+2026-03-30,Bed,ICU Bed,beds,4,15,20
+2026-03-30,Bed,General Bed,beds,27,74,100
+2026-03-30,Equipment,Ventilator,units,4,5,10
+2026-03-30,Medicine,Paracetamol,tablets,2745,330,5000
+2026-03-30,Fluid,Glucose,units,362,83,500
+2026-03-30,Fluid,IV Fluid,units,373,89,500
+2026-03-31,Bed,ICU Bed,beds,2,16,20
+2026-03-31,Bed,General Bed,beds,34,69,100
+2026-03-31,Equipment,Ventilator,units,3,7,10
+2026-03-31,Medicine,Paracetamol,tablets,3914,454,5000
+2026-03-31,Fluid,Glucose,units,283,77,500
+2026-03-31,Fluid,IV Fluid,units,381,43,500
+2026-04-01,Bed,ICU Bed,beds,3,15,20
+2026-04-01,Bed,General Bed,beds,29,68,100
+2026-04-01,Equipment,Ventilator,units,3,8,10
+2026-04-01,Medicine,Paracetamol,tablets,3515,322,5000
+2026-04-01,Fluid,Glucose,units,274,36,500
+2026-04-01,Fluid,IV Fluid,units,324,79,500
+2026-04-02,Bed,ICU Bed,beds,5,17,20
+2026-04-02,Bed,General Bed,beds,22,70,100
+2026-04-02,Equipment,Ventilator,units,3,9,10
+2026-04-02,Medicine,Paracetamol,tablets,3780,347,5000
+2026-04-02,Fluid,Glucose,units,445,50,500
+2026-04-02,Fluid,IV Fluid,units,377,95,500
+2026-04-03,Bed,ICU Bed,beds,4,17,20
+2026-04-03,Bed,General Bed,beds,24,80,100
+2026-04-03,Equipment,Ventilator,units,1,5,10
+2026-04-03,Medicine,Paracetamol,tablets,4110,508,5000
+2026-04-03,Fluid,Glucose,units,367,60,500
+2026-04-03,Fluid,IV Fluid,units,305,75,500
+2026-04-04,Bed,ICU Bed,beds,1,14,20
+2026-04-04,Bed,General Bed,beds,24,80,100
+2026-04-04,Equipment,Ventilator,units,4,7,10
+2026-04-04,Medicine,Paracetamol,tablets,4698,254,5000
+2026-04-04,Fluid,Glucose,units,466,43,500
+2026-04-04,Fluid,IV Fluid,units,360,47,500
+2026-04-05,Bed,ICU Bed,beds,3,19,20
+2026-04-05,Bed,General Bed,beds,26,89,100
+2026-04-05,Equipment,Ventilator,units,4,7,10
+2026-04-05,Medicine,Paracetamol,tablets,2685,455,5000
+2026-04-05,Fluid,Glucose,units,263,54,500
+2026-04-05,Fluid,IV Fluid,units,342,100,500
+2026-04-06,Bed,ICU Bed,beds,3,14,20
+2026-04-06,Bed,General Bed,beds,27,81,100
+2026-04-06,Equipment,Ventilator,units,4,9,10
+2026-04-06,Medicine,Paracetamol,tablets,3645,672,5000
+2026-04-06,Fluid,Glucose,units,409,45,500
+2026-04-06,Fluid,IV Fluid,units,282,42,500
+2026-04-07,Bed,ICU Bed,beds,4,16,20
+2026-04-07,Bed,General Bed,beds,25,82,100
+2026-04-07,Equipment,Ventilator,units,3,6,10
+2026-04-07,Medicine,Paracetamol,tablets,3315,558,5000
+2026-04-07,Fluid,Glucose,units,380,81,500
+2026-04-07,Fluid,IV Fluid,units,378,35,500
+2026-04-08,Bed,ICU Bed,beds,1,14,20
+2026-04-08,Bed,General Bed,beds,19,87,100
+2026-04-08,Equipment,Ventilator,units,3,8,10
+2026-04-08,Medicine,Paracetamol,tablets,4627,483,5000
+2026-04-08,Fluid,Glucose,units,288,95,500
+2026-04-08,Fluid,IV Fluid,units,285,71,500
+2026-04-09,Bed,ICU Bed,beds,5,16,20
+2026-04-09,Bed,General Bed,beds,20,77,100
+2026-04-09,Equipment,Ventilator,units,3,9,10
+2026-04-09,Medicine,Paracetamol,tablets,3877,509,5000
+2026-04-09,Fluid,Glucose,units,462,95,500
+2026-04-09,Fluid,IV Fluid,units,386,92,500
+2026-04-10,Bed,ICU Bed,beds,5,16,20
+2026-04-10,Bed,General Bed,beds,30,65,100
+2026-04-10,Equipment,Ventilator,units,3,7,10
+2026-04-10,Medicine,Paracetamol,tablets,2948,463,5000
+2026-04-10,Fluid,Glucose,units,399,69,500
+2026-04-10,Fluid,IV Fluid,units,453,33,500
+2026-04-11,Bed,ICU Bed,beds,5,17,20
+2026-04-11,Bed,General Bed,beds,23,85,100
+2026-04-11,Equipment,Ventilator,units,2,5,10
+2026-04-11,Medicine,Paracetamol,tablets,4467,337,5000
+2026-04-11,Fluid,Glucose,units,384,78,500
+2026-04-11,Fluid,IV Fluid,units,287,61,500
+2026-04-12,Bed,ICU Bed,beds,1,18,20
+2026-04-12,Bed,General Bed,beds,18,71,100
+2026-04-12,Equipment,Ventilator,units,1,8,10
+2026-04-12,Medicine,Paracetamol,tablets,3784,464,5000
+2026-04-12,Fluid,Glucose,units,288,82,500
+2026-04-12,Fluid,IV Fluid,units,426,56,500
+2026-04-13,Bed,ICU Bed,beds,4,18,20
+2026-04-13,Bed,General Bed,beds,34,80,100
+2026-04-13,Equipment,Ventilator,units,1,6,10
+2026-04-13,Medicine,Paracetamol,tablets,4624,356,5000
+2026-04-13,Fluid,Glucose,units,393,71,500
+2026-04-13,Fluid,IV Fluid,units,419,91,500
+2026-04-14,Bed,ICU Bed,beds,5,17,20
+2026-04-14,Bed,General Bed,beds,25,70,100
+2026-04-14,Equipment,Ventilator,units,4,9,10
+2026-04-14,Medicine,Paracetamol,tablets,3902,529,5000
+2026-04-14,Fluid,Glucose,units,340,63,500
+2026-04-14,Fluid,IV Fluid,units,406,91,500
+2026-04-15,Bed,ICU Bed,beds,2,15,20
+2026-04-15,Bed,General Bed,beds,23,82,100
+2026-04-15,Equipment,Ventilator,units,3,6,10
+2026-04-15,Medicine,Paracetamol,tablets,3719,644,5000
+2026-04-15,Fluid,Glucose,units,323,56,500
+2026-04-15,Fluid,IV Fluid,units,426,92,500
+2026-04-16,Bed,ICU Bed,beds,3,17,20
+2026-04-16,Bed,General Bed,beds,26,82,100
+2026-04-16,Equipment,Ventilator,units,3,7,10
+2026-04-16,Medicine,Paracetamol,tablets,2999,543,5000
+2026-04-16,Fluid,Glucose,units,423,99,500
+2026-04-16,Fluid,IV Fluid,units,347,80,500
+2026-04-17,Bed,ICU Bed,beds,3,15,20
+2026-04-17,Bed,General Bed,beds,24,66,100
+2026-04-17,Equipment,Ventilator,units,3,5,10
+2026-04-17,Medicine,Paracetamol,tablets,3918,476,5000
+2026-04-17,Fluid,Glucose,units,417,62,500
+2026-04-17,Fluid,IV Fluid,units,441,91,500
+2026-04-18,Bed,ICU Bed,beds,2,15,20
+2026-04-18,Bed,General Bed,beds,32,73,100
+2026-04-18,Equipment,Ventilator,units,3,6,10
+2026-04-18,Medicine,Paracetamol,tablets,2947,565,5000
+2026-04-18,Fluid,Glucose,units,439,60,500
+2026-04-18,Fluid,IV Fluid,units,312,36,500
+2026-04-19,Bed,ICU Bed,beds,5,15,20
+2026-04-19,Bed,General Bed,beds,35,72,100
+2026-04-19,Equipment,Ventilator,units,1,5,10
+2026-04-19,Medicine,Paracetamol,tablets,4192,419,5000
+2026-04-19,Fluid,Glucose,units,433,90,500
+2026-04-19,Fluid,IV Fluid,units,275,47,500
+2026-04-20,Bed,ICU Bed,beds,1,18,20
+2026-04-20,Bed,General Bed,beds,20,78,100
+2026-04-20,Equipment,Ventilator,units,4,8,10
+2026-04-20,Medicine,Paracetamol,tablets,3316,637,5000
+2026-04-20,Fluid,Glucose,units,323,71,500
+2026-04-20,Fluid,IV Fluid,units,323,37,500
+2026-04-21,Bed,ICU Bed,beds,1,19,20
+2026-04-21,Bed,General Bed,beds,33,72,100
+2026-04-21,Equipment,Ventilator,units,1,6,10
+2026-04-21,Medicine,Paracetamol,tablets,4211,678,5000
+2026-04-21,Fluid,Glucose,units,295,34,500
+2026-04-21,Fluid,IV Fluid,units,464,80,500
+2026-04-22,Bed,ICU Bed,beds,4,15,20
+2026-04-22,Bed,General Bed,beds,24,66,100
+2026-04-22,Equipment,Ventilator,units,1,7,10
+2026-04-22,Medicine,Paracetamol,tablets,2939,421,5000
+2026-04-22,Fluid,Glucose,units,322,88,500
+2026-04-22,Fluid,IV Fluid,units,414,99,500
+2026-04-23,Bed,ICU Bed,beds,5,17,20
+2026-04-23,Bed,General Bed,beds,19,81,100
+2026-04-23,Equipment,Ventilator,units,4,7,10
+2026-04-23,Medicine,Paracetamol,tablets,3289,664,5000
+2026-04-23,Fluid,Glucose,units,278,72,500
+2026-04-23,Fluid,IV Fluid,units,291,88,500
+2026-04-24,Bed,ICU Bed,beds,3,19,20
+2026-04-24,Bed,General Bed,beds,20,65,100
+2026-04-24,Equipment,Ventilator,units,3,7,10
+2026-04-24,Medicine,Paracetamol,tablets,3291,339,5000
+2026-04-24,Fluid,Glucose,units,406,81,500
+2026-04-24,Fluid,IV Fluid,units,461,84,500
+2026-04-25,Bed,ICU Bed,beds,5,16,20
+2026-04-25,Bed,General Bed,beds,17,77,100
+2026-04-25,Equipment,Ventilator,units,1,6,10
+2026-04-25,Medicine,Paracetamol,tablets,3075,494,5000
+2026-04-25,Fluid,Glucose,units,332,61,500
+2026-04-25,Fluid,IV Fluid,units,251,63,500
+2026-04-26,Bed,ICU Bed,beds,4,15,20
+2026-04-26,Bed,General Bed,beds,29,89,100
+2026-04-26,Equipment,Ventilator,units,3,7,10
+2026-04-26,Medicine,Paracetamol,tablets,3736,548,5000
+2026-04-26,Fluid,Glucose,units,435,31,500
+2026-04-26,Fluid,IV Fluid,units,316,76,500
+2026-04-27,Bed,ICU Bed,beds,2,14,20
+2026-04-27,Bed,General Bed,beds,18,79,100
+2026-04-27,Equipment,Ventilator,units,3,6,10
+2026-04-27,Medicine,Paracetamol,tablets,4160,601,5000
+2026-04-27,Fluid,Glucose,units,378,69,500
+2026-04-27,Fluid,IV Fluid,units,426,45,500
+2026-04-28,Bed,ICU Bed,beds,3,16,20
+2026-04-28,Bed,General Bed,beds,34,72,100
+2026-04-28,Equipment,Ventilator,units,2,6,10
+2026-04-28,Medicine,Paracetamol,tablets,4458,328,5000
+2026-04-28,Fluid,Glucose,units,366,77,500
+2026-04-28,Fluid,IV Fluid,units,356,100,500
+2026-04-29,Bed,ICU Bed,beds,4,18,20
+2026-04-29,Bed,General Bed,beds,21,89,100
+2026-04-29,Equipment,Ventilator,units,2,9,10
+2026-04-29,Medicine,Paracetamol,tablets,2835,519,5000
+2026-04-29,Fluid,Glucose,units,364,97,500
+2026-04-29,Fluid,IV Fluid,units,430,76,500
+2026-04-30,Bed,ICU Bed,beds,1,18,20
+2026-04-30,Bed,General Bed,beds,18,66,100
+2026-04-30,Equipment,Ventilator,units,2,9,10
+2026-04-30,Medicine,Paracetamol,tablets,4698,326,5000
+2026-04-30,Fluid,Glucose,units,292,71,500
+2026-04-30,Fluid,IV Fluid,units,468,96,500
+2026-05-01,Bed,ICU Bed,beds,4,14,20
+2026-05-01,Bed,General Bed,beds,21,87,100
+2026-05-01,Equipment,Ventilator,units,4,5,10
+2026-05-01,Medicine,Paracetamol,tablets,4590,478,5000
+2026-05-01,Fluid,Glucose,units,457,37,500
+2026-05-01,Fluid,IV Fluid,units,366,46,500
+2026-05-02,Bed,ICU Bed,beds,5,17,20
+2026-05-02,Bed,General Bed,beds,29,83,100
+2026-05-02,Equipment,Ventilator,units,1,9,10
+2026-05-02,Medicine,Paracetamol,tablets,4393,594,5000
+2026-05-02,Fluid,Glucose,units,456,69,500
+2026-05-02,Fluid,IV Fluid,units,435,32,500
+2026-05-03,Bed,ICU Bed,beds,4,16,20
+2026-05-03,Bed,General Bed,beds,15,88,100
+2026-05-03,Equipment,Ventilator,units,2,9,10
+2026-05-03,Medicine,Paracetamol,tablets,2799,273,5000
+2026-05-03,Fluid,Glucose,units,358,74,500
+2026-05-03,Fluid,IV Fluid,units,429,38,500
+2026-05-04,Bed,ICU Bed,beds,5,14,20
+2026-05-04,Bed,General Bed,beds,17,80,100
+2026-05-04,Equipment,Ventilator,units,1,7,10
+2026-05-04,Medicine,Paracetamol,tablets,4174,342,5000
+2026-05-04,Fluid,Glucose,units,446,47,500
+2026-05-04,Fluid,IV Fluid,units,446,83,500
+2026-05-05,Bed,ICU Bed,beds,3,17,20
+2026-05-05,Bed,General Bed,beds,29,77,100
+2026-05-05,Equipment,Ventilator,units,4,5,10
+2026-05-05,Medicine,Paracetamol,tablets,4708,318,5000
+2026-05-05,Fluid,Glucose,units,417,74,500
+2026-05-05,Fluid,IV Fluid,units,280,52,500
+2026-05-06,Bed,ICU Bed,beds,5,17,20
+2026-05-06,Bed,General Bed,beds,31,69,100
+2026-05-06,Equipment,Ventilator,units,2,5,10
+2026-05-06,Medicine,Paracetamol,tablets,2593,402,5000
+2026-05-06,Fluid,Glucose,units,368,99,500
+2026-05-06,Fluid,IV Fluid,units,358,98,500
+2026-05-07,Bed,ICU Bed,beds,4,15,20
+2026-05-07,Bed,General Bed,beds,22,79,100
+2026-05-07,Equipment,Ventilator,units,3,6,10
+2026-05-07,Medicine,Paracetamol,tablets,3629,346,5000
+2026-05-07,Fluid,Glucose,units,474,44,500
+2026-05-07,Fluid,IV Fluid,units,258,83,500
+2026-05-08,Bed,ICU Bed,beds,5,14,20
+2026-05-08,Bed,General Bed,beds,22,71,100
+2026-05-08,Equipment,Ventilator,units,1,5,10
+2026-05-08,Medicine,Paracetamol,tablets,2637,478,5000
+2026-05-08,Fluid,Glucose,units,403,36,500
+2026-05-08,Fluid,IV Fluid,units,312,35,500
+2026-05-09,Bed,ICU Bed,beds,4,17,20
+2026-05-09,Bed,General Bed,beds,22,82,100
+2026-05-09,Equipment,Ventilator,units,2,5,10
+2026-05-09,Medicine,Paracetamol,tablets,3073,507,5000
+2026-05-09,Fluid,Glucose,units,324,59,500
+2026-05-09,Fluid,IV Fluid,units,458,70,500
+2026-05-10,Bed,ICU Bed,beds,5,18,20
+2026-05-10,Bed,General Bed,beds,25,72,100
+2026-05-10,Equipment,Ventilator,units,3,6,10
+2026-05-10,Medicine,Paracetamol,tablets,4635,363,5000
+2026-05-10,Fluid,Glucose,units,355,68,500
+2026-05-10,Fluid,IV Fluid,units,320,37,500
+2026-05-11,Bed,ICU Bed,beds,5,18,20
+2026-05-11,Bed,General Bed,beds,20,85,100
+2026-05-11,Equipment,Ventilator,units,4,9,10
+2026-05-11,Medicine,Paracetamol,tablets,4530,274,5000
+2026-05-11,Fluid,Glucose,units,338,78,500
+2026-05-11,Fluid,IV Fluid,units,451,97,500
+2026-05-12,Bed,ICU Bed,beds,3,19,20
+2026-05-12,Bed,General Bed,beds,28,78,100
+2026-05-12,Equipment,Ventilator,units,2,7,10
+2026-05-12,Medicine,Paracetamol,tablets,4041,344,5000
+2026-05-12,Fluid,Glucose,units,443,98,500
+2026-05-12,Fluid,IV Fluid,units,371,60,500
+2026-05-13,Bed,ICU Bed,beds,2,16,20
+2026-05-13,Bed,General Bed,beds,19,90,100
+2026-05-13,Equipment,Ventilator,units,4,5,10
+2026-05-13,Medicine,Paracetamol,tablets,4190,463,5000
+2026-05-13,Fluid,Glucose,units,392,97,500
+2026-05-13,Fluid,IV Fluid,units,284,79,500
+2026-05-14,Bed,ICU Bed,beds,2,16,20
+2026-05-14,Bed,General Bed,beds,21,75,100
+2026-05-14,Equipment,Ventilator,units,1,8,10
+2026-05-14,Medicine,Paracetamol,tablets,4019,297,5000
+2026-05-14,Fluid,Glucose,units,387,54,500
+2026-05-14,Fluid,IV Fluid,units,263,64,500
+2026-05-15,Bed,ICU Bed,beds,4,19,20
+2026-05-15,Bed,General Bed,beds,34,84,100
+2026-05-15,Equipment,Ventilator,units,1,5,10
+2026-05-15,Medicine,Paracetamol,tablets,3270,661,5000
+2026-05-15,Fluid,Glucose,units,444,57,500
+2026-05-15,Fluid,IV Fluid,units,372,56,500
+2026-05-16,Bed,ICU Bed,beds,3,16,20
+2026-05-16,Bed,General Bed,beds,15,71,100
+2026-05-16,Equipment,Ventilator,units,2,5,10
+2026-05-16,Medicine,Paracetamol,tablets,4461,374,5000
+2026-05-16,Fluid,Glucose,units,428,56,500
+2026-05-16,Fluid,IV Fluid,units,351,60,500
+2026-05-17,Bed,ICU Bed,beds,5,16,20
+2026-05-17,Bed,General Bed,beds,24,77,100
+2026-05-17,Equipment,Ventilator,units,4,9,10
+2026-05-17,Medicine,Paracetamol,tablets,3971,407,5000
+2026-05-17,Fluid,Glucose,units,316,76,500
+2026-05-17,Fluid,IV Fluid,units,381,93,500
+2026-05-18,Bed,ICU Bed,beds,4,14,20
+2026-05-18,Bed,General Bed,beds,30,89,100
+2026-05-18,Equipment,Ventilator,units,3,6,10
+2026-05-18,Medicine,Paracetamol,tablets,4018,410,5000
+2026-05-18,Fluid,Glucose,units,355,35,500
+2026-05-18,Fluid,IV Fluid,units,394,58,500
+2026-05-19,Bed,ICU Bed,beds,2,14,20
+2026-05-19,Bed,General Bed,beds,23,82,100
+2026-05-19,Equipment,Ventilator,units,4,7,10
+2026-05-19,Medicine,Paracetamol,tablets,3124,350,5000
+2026-05-19,Fluid,Glucose,units,334,59,500
+2026-05-19,Fluid,IV Fluid,units,347,61,500
+2026-05-20,Bed,ICU Bed,beds,4,18,20
+2026-05-20,Bed,General Bed,beds,35,86,100
+2026-05-20,Equipment,Ventilator,units,3,7,10
+2026-05-20,Medicine,Paracetamol,tablets,4501,620,5000
+2026-05-20,Fluid,Glucose,units,414,92,500
+2026-05-20,Fluid,IV Fluid,units,367,51,500
+2026-05-21,Bed,ICU Bed,beds,3,15,20
+2026-05-21,Bed,General Bed,beds,19,88,100
+2026-05-21,Equipment,Ventilator,units,4,6,10
+2026-05-21,Medicine,Paracetamol,tablets,4720,578,5000
+2026-05-21,Fluid,Glucose,units,265,97,500
+2026-05-21,Fluid,IV Fluid,units,258,39,500
+2026-05-22,Bed,ICU Bed,beds,1,14,20
+2026-05-22,Bed,General Bed,beds,28,69,100
+2026-05-22,Equipment,Ventilator,units,2,5,10
+2026-05-22,Medicine,Paracetamol,tablets,3118,254,5000
+2026-05-22,Fluid,Glucose,units,305,94,500
+2026-05-22,Fluid,IV Fluid,units,366,77,500
+2026-05-23,Bed,ICU Bed,beds,1,18,20
+2026-05-23,Bed,General Bed,beds,35,86,100
+2026-05-23,Equipment,Ventilator,units,4,8,10
+2026-05-23,Medicine,Paracetamol,tablets,2564,253,5000
+2026-05-23,Fluid,Glucose,units,386,100,500
+2026-05-23,Fluid,IV Fluid,units,355,31,500
+2026-05-24,Bed,ICU Bed,beds,1,18,20
+2026-05-24,Bed,General Bed,beds,23,82,100
+2026-05-24,Equipment,Ventilator,units,3,5,10
+2026-05-24,Medicine,Paracetamol,tablets,4557,666,5000
+2026-05-24,Fluid,Glucose,units,428,85,500
+2026-05-24,Fluid,IV Fluid,units,456,52,500
+2026-05-25,Bed,ICU Bed,beds,1,14,20
+2026-05-25,Bed,General Bed,beds,31,69,100
+2026-05-25,Equipment,Ventilator,units,2,6,10
+2026-05-25,Medicine,Paracetamol,tablets,4656,379,5000
+2026-05-25,Fluid,Glucose,units,458,75,500
+2026-05-25,Fluid,IV Fluid,units,318,80,500
+2026-05-26,Bed,ICU Bed,beds,1,16,20
+2026-05-26,Bed,General Bed,beds,27,79,100
+2026-05-26,Equipment,Ventilator,units,2,6,10
+2026-05-26,Medicine,Paracetamol,tablets,3728,600,5000
+2026-05-26,Fluid,Glucose,units,461,40,500
+2026-05-26,Fluid,IV Fluid,units,417,34,500
+2026-05-27,Bed,ICU Bed,beds,1,17,20
+2026-05-27,Bed,General Bed,beds,27,77,100
+2026-05-27,Equipment,Ventilator,units,4,5,10
+2026-05-27,Medicine,Paracetamol,tablets,2538,609,5000
+2026-05-27,Fluid,Glucose,units,293,40,500
+2026-05-27,Fluid,IV Fluid,units,377,85,500
+2026-05-28,Bed,ICU Bed,beds,3,18,20
+2026-05-28,Bed,General Bed,beds,18,81,100
+2026-05-28,Equipment,Ventilator,units,1,6,10
+2026-05-28,Medicine,Paracetamol,tablets,3365,694,5000
+2026-05-28,Fluid,Glucose,units,427,90,500
+2026-05-28,Fluid,IV Fluid,units,319,35,500
+2026-05-29,Bed,ICU Bed,beds,1,19,20
+2026-05-29,Bed,General Bed,beds,23,82,100
+2026-05-29,Equipment,Ventilator,units,1,6,10
+2026-05-29,Medicine,Paracetamol,tablets,3788,258,5000
+2026-05-29,Fluid,Glucose,units,303,48,500
+2026-05-29,Fluid,IV Fluid,units,442,80,500
+2026-05-30,Bed,ICU Bed,beds,1,16,20
+2026-05-30,Bed,General Bed,beds,20,83,100
+2026-05-30,Equipment,Ventilator,units,2,9,10
+2026-05-30,Medicine,Paracetamol,tablets,4093,596,5000
+2026-05-30,Fluid,Glucose,units,479,99,500
+2026-05-30,Fluid,IV Fluid,units,334,79,500
+2026-05-31,Bed,ICU Bed,beds,2,19,20
+2026-05-31,Bed,General Bed,beds,17,81,100
+2026-05-31,Equipment,Ventilator,units,3,5,10
+2026-05-31,Medicine,Paracetamol,tablets,2900,473,5000
+2026-05-31,Fluid,Glucose,units,309,39,500
+2026-05-31,Fluid,IV Fluid,units,337,80,500
+2026-06-01,Bed,ICU Bed,beds,3,14,20
+2026-06-01,Bed,General Bed,beds,35,73,100
+2026-06-01,Equipment,Ventilator,units,4,8,10
+2026-06-01,Medicine,Paracetamol,tablets,3434,432,5000
+2026-06-01,Fluid,Glucose,units,391,78,500
+2026-06-01,Fluid,IV Fluid,units,360,53,500
+2026-06-02,Bed,ICU Bed,beds,5,19,20
+2026-06-02,Bed,General Bed,beds,27,67,100
+2026-06-02,Equipment,Ventilator,units,3,6,10
+2026-06-02,Medicine,Paracetamol,tablets,2801,292,5000
+2026-06-02,Fluid,Glucose,units,318,49,500
+2026-06-02,Fluid,IV Fluid,units,347,49,500
+2026-06-03,Bed,ICU Bed,beds,4,16,20
+2026-06-03,Bed,General Bed,beds,26,68,100
+2026-06-03,Equipment,Ventilator,units,1,5,10
+2026-06-03,Medicine,Paracetamol,tablets,3762,477,5000
+2026-06-03,Fluid,Glucose,units,342,64,500
+2026-06-03,Fluid,IV Fluid,units,276,46,500
+2026-06-04,Bed,ICU Bed,beds,1,15,20
+2026-06-04,Bed,General Bed,beds,28,79,100
+2026-06-04,Equipment,Ventilator,units,4,5,10
+2026-06-04,Medicine,Paracetamol,tablets,2607,295,5000
+2026-06-04,Fluid,Glucose,units,340,100,500
+2026-06-04,Fluid,IV Fluid,units,273,71,500
+2026-06-05,Bed,ICU Bed,beds,4,14,20
+2026-06-05,Bed,General Bed,beds,24,78,100
+2026-06-05,Equipment,Ventilator,units,4,5,10
+2026-06-05,Medicine,Paracetamol,tablets,4791,374,5000
+2026-06-05,Fluid,Glucose,units,396,96,500
+2026-06-05,Fluid,IV Fluid,units,293,78,500
+2026-06-06,Bed,ICU Bed,beds,2,15,20
+2026-06-06,Bed,General Bed,beds,23,74,100
+2026-06-06,Equipment,Ventilator,units,3,8,10
+2026-06-06,Medicine,Paracetamol,tablets,3097,282,5000
+2026-06-06,Fluid,Glucose,units,292,85,500
+2026-06-06,Fluid,IV Fluid,units,320,83,500
+2026-06-07,Bed,ICU Bed,beds,3,17,20
+2026-06-07,Bed,General Bed,beds,17,76,100
+2026-06-07,Equipment,Ventilator,units,3,6,10
+2026-06-07,Medicine,Paracetamol,tablets,4530,554,5000
+2026-06-07,Fluid,Glucose,units,407,55,500
+2026-06-07,Fluid,IV Fluid,units,367,43,500
+2026-06-08,Bed,ICU Bed,beds,2,16,20
+2026-06-08,Bed,General Bed,beds,15,77,100
+2026-06-08,Equipment,Ventilator,units,3,9,10
+2026-06-08,Medicine,Paracetamol,tablets,4056,661,5000
+2026-06-08,Fluid,Glucose,units,470,72,500
+2026-06-08,Fluid,IV Fluid,units,362,72,500
+2026-06-09,Bed,ICU Bed,beds,4,19,20
+2026-06-09,Bed,General Bed,beds,34,69,100
+2026-06-09,Equipment,Ventilator,units,3,7,10
+2026-06-09,Medicine,Paracetamol,tablets,3322,495,5000
+2026-06-09,Fluid,Glucose,units,330,52,500
+2026-06-09,Fluid,IV Fluid,units,351,70,500
+2026-06-10,Bed,ICU Bed,beds,3,19,20
+2026-06-10,Bed,General Bed,beds,35,80,100
+2026-06-10,Equipment,Ventilator,units,2,7,10
+2026-06-10,Medicine,Paracetamol,tablets,4040,393,5000
+2026-06-10,Fluid,Glucose,units,459,80,500
+2026-06-10,Fluid,IV Fluid,units,343,44,500
+2026-06-11,Bed,ICU Bed,beds,5,15,20
+2026-06-11,Bed,General Bed,beds,33,82,100
+2026-06-11,Equipment,Ventilator,units,2,9,10
+2026-06-11,Medicine,Paracetamol,tablets,2610,622,5000
+2026-06-11,Fluid,Glucose,units,368,56,500
+2026-06-11,Fluid,IV Fluid,units,362,67,500
+2026-06-12,Bed,ICU Bed,beds,1,17,20
+2026-06-12,Bed,General Bed,beds,30,69,100
+2026-06-12,Equipment,Ventilator,units,3,6,10
+2026-06-12,Medicine,Paracetamol,tablets,3534,587,5000
+2026-06-12,Fluid,Glucose,units,289,84,500
+2026-06-12,Fluid,IV Fluid,units,452,78,500
+2026-06-13,Bed,ICU Bed,beds,1,17,20
+2026-06-13,Bed,General Bed,beds,34,80,100
+2026-06-13,Equipment,Ventilator,units,4,9,10
+2026-06-13,Medicine,Paracetamol,tablets,4575,695,5000
+2026-06-13,Fluid,Glucose,units,427,83,500
+2026-06-13,Fluid,IV Fluid,units,389,34,500
+2026-06-14,Bed,ICU Bed,beds,3,19,20
+2026-06-14,Bed,General Bed,beds,32,84,100
+2026-06-14,Equipment,Ventilator,units,1,5,10
+2026-06-14,Medicine,Paracetamol,tablets,3516,586,5000
+2026-06-14,Fluid,Glucose,units,420,75,500
+2026-06-14,Fluid,IV Fluid,units,292,35,500
+2026-06-15,Bed,ICU Bed,beds,5,19,20
+2026-06-15,Bed,General Bed,beds,35,77,100
+2026-06-15,Equipment,Ventilator,units,3,8,10
+2026-06-15,Medicine,Paracetamol,tablets,2933,255,5000
+2026-06-15,Fluid,Glucose,units,275,63,500
+2026-06-15,Fluid,IV Fluid,units,306,95,500
+2026-06-16,Bed,ICU Bed,beds,5,18,20
+2026-06-16,Bed,General Bed,beds,33,87,100
+2026-06-16,Equipment,Ventilator,units,2,8,10
+2026-06-16,Medicine,Paracetamol,tablets,4032,450,5000
+2026-06-16,Fluid,Glucose,units,368,94,500
+2026-06-16,Fluid,IV Fluid,units,288,74,500
+2026-06-17,Bed,ICU Bed,beds,1,17,20
+2026-06-17,Bed,General Bed,beds,18,74,100
+2026-06-17,Equipment,Ventilator,units,4,5,10
+2026-06-17,Medicine,Paracetamol,tablets,2975,675,5000
+2026-06-17,Fluid,Glucose,units,436,48,500
+2026-06-17,Fluid,IV Fluid,units,339,69,500
+2026-06-18,Bed,ICU Bed,beds,3,17,20
+2026-06-18,Bed,General Bed,beds,21,81,100
+2026-06-18,Equipment,Ventilator,units,4,7,10
+2026-06-18,Medicine,Paracetamol,tablets,4450,299,5000
+2026-06-18,Fluid,Glucose,units,362,87,500
+2026-06-18,Fluid,IV Fluid,units,331,38,500
+2026-06-19,Bed,ICU Bed,beds,3,14,20
+2026-06-19,Bed,General Bed,beds,18,65,100
+2026-06-19,Equipment,Ventilator,units,3,5,10
+2026-06-19,Medicine,Paracetamol,tablets,3173,629,5000
+2026-06-19,Fluid,Glucose,units,312,96,500
+2026-06-19,Fluid,IV Fluid,units,294,100,500
+2026-06-20,Bed,ICU Bed,beds,2,16,20
+2026-06-20,Bed,General Bed,beds,32,78,100
+2026-06-20,Equipment,Ventilator,units,4,6,10
+2026-06-20,Medicine,Paracetamol,tablets,4159,572,5000
+2026-06-20,Fluid,Glucose,units,297,53,500
+2026-06-20,Fluid,IV Fluid,units,413,85,500
+2026-06-21,Bed,ICU Bed,beds,4,14,20
+2026-06-21,Bed,General Bed,beds,34,71,100
+2026-06-21,Equipment,Ventilator,units,4,9,10
+2026-06-21,Medicine,Paracetamol,tablets,4259,449,5000
+2026-06-21,Fluid,Glucose,units,251,57,500
+2026-06-21,Fluid,IV Fluid,units,302,65,500
+2026-06-22,Bed,ICU Bed,beds,1,18,20
+2026-06-22,Bed,General Bed,beds,18,90,100
+2026-06-22,Equipment,Ventilator,units,2,7,10
+2026-06-22,Medicine,Paracetamol,tablets,3835,350,5000
+2026-06-22,Fluid,Glucose,units,367,44,500
+2026-06-22,Fluid,IV Fluid,units,317,92,500
+2026-06-23,Bed,ICU Bed,beds,5,19,20
+2026-06-23,Bed,General Bed,beds,25,84,100
+2026-06-23,Equipment,Ventilator,units,4,9,10
+2026-06-23,Medicine,Paracetamol,tablets,4107,550,5000
+2026-06-23,Fluid,Glucose,units,279,74,500
+2026-06-23,Fluid,IV Fluid,units,340,88,500
+2026-06-24,Bed,ICU Bed,beds,5,15,20
+2026-06-24,Bed,General Bed,beds,24,84,100
+2026-06-24,Equipment,Ventilator,units,1,6,10
+2026-06-24,Medicine,Paracetamol,tablets,3782,310,5000
+2026-06-24,Fluid,Glucose,units,311,69,500
+2026-06-24,Fluid,IV Fluid,units,279,53,500
+2026-06-25,Bed,ICU Bed,beds,3,19,20
+2026-06-25,Bed,General Bed,beds,19,81,100
+2026-06-25,Equipment,Ventilator,units,4,8,10
+2026-06-25,Medicine,Paracetamol,tablets,3064,544,5000
+2026-06-25,Fluid,Glucose,units,348,84,500
+2026-06-25,Fluid,IV Fluid,units,297,92,500
+2026-06-26,Bed,ICU Bed,beds,5,19,20
+2026-06-26,Bed,General Bed,beds,35,70,100
+2026-06-26,Equipment,Ventilator,units,2,8,10
+2026-06-26,Medicine,Paracetamol,tablets,3683,321,5000
+2026-06-26,Fluid,Glucose,units,297,70,500
+2026-06-26,Fluid,IV Fluid,units,465,87,500
+2026-06-27,Bed,ICU Bed,beds,5,14,20
+2026-06-27,Bed,General Bed,beds,26,65,100
+2026-06-27,Equipment,Ventilator,units,4,6,10
+2026-06-27,Medicine,Paracetamol,tablets,3299,667,5000
+2026-06-27,Fluid,Glucose,units,348,94,500
+2026-06-27,Fluid,IV Fluid,units,417,93,500
+2026-06-28,Bed,ICU Bed,beds,4,19,20
+2026-06-28,Bed,General Bed,beds,30,78,100
+2026-06-28,Equipment,Ventilator,units,4,8,10
+2026-06-28,Medicine,Paracetamol,tablets,3185,292,5000
+2026-06-28,Fluid,Glucose,units,394,33,500
+2026-06-28,Fluid,IV Fluid,units,453,58,500
+2026-06-29,Bed,ICU Bed,beds,3,14,20
+2026-06-29,Bed,General Bed,beds,23,72,100
+2026-06-29,Equipment,Ventilator,units,3,6,10
+2026-06-29,Medicine,Paracetamol,tablets,4373,539,5000
+2026-06-29,Fluid,Glucose,units,440,93,500
+2026-06-29,Fluid,IV Fluid,units,390,95,500
+2026-06-30,Bed,ICU Bed,beds,1,18,20
+2026-06-30,Bed,General Bed,beds,18,73,100
+2026-06-30,Equipment,Ventilator,units,3,9,10
+2026-06-30,Medicine,Paracetamol,tablets,2670,639,5000
+2026-06-30,Fluid,Glucose,units,434,86,500
+2026-06-30,Fluid,IV Fluid,units,389,57,500
+2026-07-01,Bed,ICU Bed,beds,4,14,20
+2026-07-01,Bed,General Bed,beds,35,89,100
+2026-07-01,Equipment,Ventilator,units,2,7,10
+2026-07-01,Medicine,Paracetamol,tablets,2632,480,5000
+2026-07-01,Fluid,Glucose,units,317,74,500
+2026-07-01,Fluid,IV Fluid,units,470,41,500
+2026-07-02,Bed,ICU Bed,beds,4,14,20
+2026-07-02,Bed,General Bed,beds,22,71,100
+2026-07-02,Equipment,Ventilator,units,3,9,10
+2026-07-02,Medicine,Paracetamol,tablets,4253,334,5000
+2026-07-02,Fluid,Glucose,units,407,47,500
+2026-07-02,Fluid,IV Fluid,units,450,56,500
+2026-07-03,Bed,ICU Bed,beds,2,14,20
+2026-07-03,Bed,General Bed,beds,33,76,100
+2026-07-03,Equipment,Ventilator,units,3,9,10
+2026-07-03,Medicine,Paracetamol,tablets,4706,336,5000
+2026-07-03,Fluid,Glucose,units,332,67,500
+2026-07-03,Fluid,IV Fluid,units,324,64,500
+2026-07-04,Bed,ICU Bed,beds,5,19,20
+2026-07-04,Bed,General Bed,beds,18,69,100
+2026-07-04,Equipment,Ventilator,units,4,5,10
+2026-07-04,Medicine,Paracetamol,tablets,3635,693,5000
+2026-07-04,Fluid,Glucose,units,417,46,500
+2026-07-04,Fluid,IV Fluid,units,429,46,500
+2026-07-05,Bed,ICU Bed,beds,2,15,20
+2026-07-05,Bed,General Bed,beds,25,72,100
+2026-07-05,Equipment,Ventilator,units,4,8,10
+2026-07-05,Medicine,Paracetamol,tablets,3082,545,5000
+2026-07-05,Fluid,Glucose,units,411,64,500
+2026-07-05,Fluid,IV Fluid,units,410,83,500
+2026-07-06,Bed,ICU Bed,beds,4,17,20
+2026-07-06,Bed,General Bed,beds,17,85,100
+2026-07-06,Equipment,Ventilator,units,1,8,10
+2026-07-06,Medicine,Paracetamol,tablets,4611,633,5000
+2026-07-06,Fluid,Glucose,units,321,77,500
+2026-07-06,Fluid,IV Fluid,units,366,92,500
+2026-07-07,Bed,ICU Bed,beds,3,18,20
+2026-07-07,Bed,General Bed,beds,15,89,100
+2026-07-07,Equipment,Ventilator,units,1,8,10
+2026-07-07,Medicine,Paracetamol,tablets,3967,685,5000
+2026-07-07,Fluid,Glucose,units,266,98,500
+2026-07-07,Fluid,IV Fluid,units,351,57,500
+2026-07-08,Bed,ICU Bed,beds,4,15,20
+2026-07-08,Bed,General Bed,beds,30,73,100
+2026-07-08,Equipment,Ventilator,units,3,7,10
+2026-07-08,Medicine,Paracetamol,tablets,3883,530,5000
+2026-07-08,Fluid,Glucose,units,397,46,500
+2026-07-08,Fluid,IV Fluid,units,394,92,500
+2026-07-09,Bed,ICU Bed,beds,3,19,20
+2026-07-09,Bed,General Bed,beds,16,66,100
+2026-07-09,Equipment,Ventilator,units,1,8,10
+2026-07-09,Medicine,Paracetamol,tablets,2566,313,5000
+2026-07-09,Fluid,Glucose,units,469,50,500
+2026-07-09,Fluid,IV Fluid,units,362,88,500
+2026-07-10,Bed,ICU Bed,beds,1,17,20
+2026-07-10,Bed,General Bed,beds,21,87,100
+2026-07-10,Equipment,Ventilator,units,2,7,10
+2026-07-10,Medicine,Paracetamol,tablets,3151,697,5000
+2026-07-10,Fluid,Glucose,units,474,65,500
+2026-07-10,Fluid,IV Fluid,units,273,76,500
+2026-07-11,Bed,ICU Bed,beds,3,14,20
+2026-07-11,Bed,General Bed,beds,26,86,100
+2026-07-11,Equipment,Ventilator,units,2,5,10
+2026-07-11,Medicine,Paracetamol,tablets,4123,570,5000
+2026-07-11,Fluid,Glucose,units,328,59,500
+2026-07-11,Fluid,IV Fluid,units,359,41,500
+2026-07-12,Bed,ICU Bed,beds,1,14,20
+2026-07-12,Bed,General Bed,beds,21,80,100
+2026-07-12,Equipment,Ventilator,units,1,6,10
+2026-07-12,Medicine,Paracetamol,tablets,3426,515,5000
+2026-07-12,Fluid,Glucose,units,424,86,500
+2026-07-12,Fluid,IV Fluid,units,252,31,500
+2026-07-13,Bed,ICU Bed,beds,3,14,20
+2026-07-13,Bed,General Bed,beds,28,87,100
+2026-07-13,Equipment,Ventilator,units,2,8,10
+2026-07-13,Medicine,Paracetamol,tablets,2790,367,5000
+2026-07-13,Fluid,Glucose,units,348,41,500
+2026-07-13,Fluid,IV Fluid,units,437,43,500
+2026-07-14,Bed,ICU Bed,beds,1,16,20
+2026-07-14,Bed,General Bed,beds,26,74,100
+2026-07-14,Equipment,Ventilator,units,2,8,10
+2026-07-14,Medicine,Paracetamol,tablets,3045,578,5000
+2026-07-14,Fluid,Glucose,units,423,48,500
+2026-07-14,Fluid,IV Fluid,units,267,97,500
+2026-07-15,Bed,ICU Bed,beds,5,14,20
+2026-07-15,Bed,General Bed,beds,34,85,100
+2026-07-15,Equipment,Ventilator,units,2,8,10
+2026-07-15,Medicine,Paracetamol,tablets,3938,619,5000
+2026-07-15,Fluid,Glucose,units,304,49,500
+2026-07-15,Fluid,IV Fluid,units,355,86,500
+2026-07-16,Bed,ICU Bed,beds,2,14,20
+2026-07-16,Bed,General Bed,beds,18,69,100
+2026-07-16,Equipment,Ventilator,units,1,9,10
+2026-07-16,Medicine,Paracetamol,tablets,4072,429,5000
+2026-07-16,Fluid,Glucose,units,359,70,500
+2026-07-16,Fluid,IV Fluid,units,452,47,500
+2026-07-17,Bed,ICU Bed,beds,2,16,20
+2026-07-17,Bed,General Bed,beds,35,67,100
+2026-07-17,Equipment,Ventilator,units,2,9,10
+2026-07-17,Medicine,Paracetamol,tablets,3667,648,5000
+2026-07-17,Fluid,Glucose,units,426,33,500
+2026-07-17,Fluid,IV Fluid,units,467,68,500
+2026-07-18,Bed,ICU Bed,beds,2,18,20
+2026-07-18,Bed,General Bed,beds,34,81,100
+2026-07-18,Equipment,Ventilator,units,2,8,10
+2026-07-18,Medicine,Paracetamol,tablets,3710,580,5000
+2026-07-18,Fluid,Glucose,units,263,60,500
+2026-07-18,Fluid,IV Fluid,units,376,79,500
+2026-07-19,Bed,ICU Bed,beds,1,15,20
+2026-07-19,Bed,General Bed,beds,30,85,100
+2026-07-19,Equipment,Ventilator,units,1,9,10
+2026-07-19,Medicine,Paracetamol,tablets,2549,434,5000
+2026-07-19,Fluid,Glucose,units,331,46,500
+2026-07-19,Fluid,IV Fluid,units,349,83,500
+2026-07-20,Bed,ICU Bed,beds,3,18,20
+2026-07-20,Bed,General Bed,beds,20,89,100
+2026-07-20,Equipment,Ventilator,units,4,5,10
+2026-07-20,Medicine,Paracetamol,tablets,2568,550,5000
+2026-07-20,Fluid,Glucose,units,267,31,500
+2026-07-20,Fluid,IV Fluid,units,317,57,500
+2026-07-21,Bed,ICU Bed,beds,1,14,20
+2026-07-21,Bed,General Bed,beds,27,81,100
+2026-07-21,Equipment,Ventilator,units,3,9,10
+2026-07-21,Medicine,Paracetamol,tablets,4201,466,5000
+2026-07-21,Fluid,Glucose,units,429,81,500
+2026-07-21,Fluid,IV Fluid,units,271,98,500
+2026-07-22,Bed,ICU Bed,beds,5,18,20
+2026-07-22,Bed,General Bed,beds,19,73,100
+2026-07-22,Equipment,Ventilator,units,1,7,10
+2026-07-22,Medicine,Paracetamol,tablets,2823,511,5000
+2026-07-22,Fluid,Glucose,units,302,49,500
+2026-07-22,Fluid,IV Fluid,units,387,71,500
+2026-07-23,Bed,ICU Bed,beds,4,18,20
+2026-07-23,Bed,General Bed,beds,35,89,100
+2026-07-23,Equipment,Ventilator,units,1,7,10
+2026-07-23,Medicine,Paracetamol,tablets,4291,623,5000
+2026-07-23,Fluid,Glucose,units,466,60,500
+2026-07-23,Fluid,IV Fluid,units,264,61,500
+2026-07-24,Bed,ICU Bed,beds,1,17,20
+2026-07-24,Bed,General Bed,beds,18,79,100
+2026-07-24,Equipment,Ventilator,units,1,7,10
+2026-07-24,Medicine,Paracetamol,tablets,3219,311,5000
+2026-07-24,Fluid,Glucose,units,253,47,500
+2026-07-24,Fluid,IV Fluid,units,429,31,500
+2026-07-25,Bed,ICU Bed,beds,2,17,20
+2026-07-25,Bed,General Bed,beds,26,81,100
+2026-07-25,Equipment,Ventilator,units,3,6,10
+2026-07-25,Medicine,Paracetamol,tablets,4023,314,5000
+2026-07-25,Fluid,Glucose,units,441,64,500
+2026-07-25,Fluid,IV Fluid,units,437,45,500
+2026-07-26,Bed,ICU Bed,beds,1,16,20
+2026-07-26,Bed,General Bed,beds,28,73,100
+2026-07-26,Equipment,Ventilator,units,1,7,10
+2026-07-26,Medicine,Paracetamol,tablets,2815,504,5000
+2026-07-26,Fluid,Glucose,units,366,95,500
+2026-07-26,Fluid,IV Fluid,units,342,37,500
+2026-07-27,Bed,ICU Bed,beds,4,18,20
+2026-07-27,Bed,General Bed,beds,20,76,100
+2026-07-27,Equipment,Ventilator,units,2,7,10
+2026-07-27,Medicine,Paracetamol,tablets,2921,543,5000
+2026-07-27,Fluid,Glucose,units,422,44,500
+2026-07-27,Fluid,IV Fluid,units,308,95,500
+2026-07-28,Bed,ICU Bed,beds,1,14,20
+2026-07-28,Bed,General Bed,beds,15,72,100
+2026-07-28,Equipment,Ventilator,units,1,8,10
+2026-07-28,Medicine,Paracetamol,tablets,3990,446,5000
+2026-07-28,Fluid,Glucose,units,288,52,500
+2026-07-28,Fluid,IV Fluid,units,469,34,500
+2026-07-29,Bed,ICU Bed,beds,5,19,20
+2026-07-29,Bed,General Bed,beds,35,78,100
+2026-07-29,Equipment,Ventilator,units,2,7,10
+2026-07-29,Medicine,Paracetamol,tablets,3516,463,5000
+2026-07-29,Fluid,Glucose,units,434,70,500
+2026-07-29,Fluid,IV Fluid,units,319,39,500
+2026-07-30,Bed,ICU Bed,beds,5,16,20
+2026-07-30,Bed,General Bed,beds,18,81,100
+2026-07-30,Equipment,Ventilator,units,1,6,10
+2026-07-30,Medicine,Paracetamol,tablets,3414,661,5000
+2026-07-30,Fluid,Glucose,units,382,35,500
+2026-07-30,Fluid,IV Fluid,units,352,38,500
+2026-07-31,Bed,ICU Bed,beds,4,16,20
+2026-07-31,Bed,General Bed,beds,24,75,100
+2026-07-31,Equipment,Ventilator,units,1,9,10
+2026-07-31,Medicine,Paracetamol,tablets,4370,254,5000
+2026-07-31,Fluid,Glucose,units,344,55,500
+2026-07-31,Fluid,IV Fluid,units,324,68,500
+2026-08-01,Bed,ICU Bed,beds,5,15,20
+2026-08-01,Bed,General Bed,beds,29,76,100
+2026-08-01,Equipment,Ventilator,units,4,6,10
+2026-08-01,Medicine,Paracetamol,tablets,4738,639,5000
+2026-08-01,Fluid,Glucose,units,453,61,500
+2026-08-01,Fluid,IV Fluid,units,288,30,500
+2026-08-02,Bed,ICU Bed,beds,4,14,20
+2026-08-02,Bed,General Bed,beds,22,82,100
+2026-08-02,Equipment,Ventilator,units,3,5,10
+2026-08-02,Medicine,Paracetamol,tablets,3872,250,5000
+2026-08-02,Fluid,Glucose,units,444,78,500
+2026-08-02,Fluid,IV Fluid,units,467,69,500
+2026-08-03,Bed,ICU Bed,beds,1,15,20
+2026-08-03,Bed,General Bed,beds,31,72,100
+2026-08-03,Equipment,Ventilator,units,4,8,10
+2026-08-03,Medicine,Paracetamol,tablets,2745,322,5000
+2026-08-03,Fluid,Glucose,units,432,65,500
+2026-08-03,Fluid,IV Fluid,units,273,35,500
+2026-08-04,Bed,ICU Bed,beds,2,18,20
+2026-08-04,Bed,General Bed,beds,28,87,100
+2026-08-04,Equipment,Ventilator,units,3,8,10
+2026-08-04,Medicine,Paracetamol,tablets,2847,547,5000
+2026-08-04,Fluid,Glucose,units,274,94,500
+2026-08-04,Fluid,IV Fluid,units,284,80,500
+2026-08-05,Bed,ICU Bed,beds,1,18,20
+2026-08-05,Bed,General Bed,beds,33,66,100
+2026-08-05,Equipment,Ventilator,units,4,6,10
+2026-08-05,Medicine,Paracetamol,tablets,3469,399,5000
+2026-08-05,Fluid,Glucose,units,316,70,500
+2026-08-05,Fluid,IV Fluid,units,455,80,500
+2026-08-06,Bed,ICU Bed,beds,3,16,20
+2026-08-06,Bed,General Bed,beds,29,73,100
+2026-08-06,Equipment,Ventilator,units,2,5,10
+2026-08-06,Medicine,Paracetamol,tablets,3330,319,5000
+2026-08-06,Fluid,Glucose,units,449,43,500
+2026-08-06,Fluid,IV Fluid,units,289,43,500
+2026-08-07,Bed,ICU Bed,beds,2,17,20
+2026-08-07,Bed,General Bed,beds,29,75,100
+2026-08-07,Equipment,Ventilator,units,4,5,10
+2026-08-07,Medicine,Paracetamol,tablets,4695,433,5000
+2026-08-07,Fluid,Glucose,units,447,56,500
+2026-08-07,Fluid,IV Fluid,units,365,69,500
+2026-08-08,Bed,ICU Bed,beds,4,16,20
+2026-08-08,Bed,General Bed,beds,18,67,100
+2026-08-08,Equipment,Ventilator,units,2,7,10
+2026-08-08,Medicine,Paracetamol,tablets,2665,360,5000
+2026-08-08,Fluid,Glucose,units,463,71,500
+2026-08-08,Fluid,IV Fluid,units,287,41,500
+2026-08-09,Bed,ICU Bed,beds,2,16,20
+2026-08-09,Bed,General Bed,beds,27,81,100
+2026-08-09,Equipment,Ventilator,units,1,7,10
+2026-08-09,Medicine,Paracetamol,tablets,3565,669,5000
+2026-08-09,Fluid,Glucose,units,294,33,500
+2026-08-09,Fluid,IV Fluid,units,353,87,500
+2026-08-10,Bed,ICU Bed,beds,5,19,20
+2026-08-10,Bed,General Bed,beds,32,72,100
+2026-08-10,Equipment,Ventilator,units,1,8,10
+2026-08-10,Medicine,Paracetamol,tablets,2917,661,5000
+2026-08-10,Fluid,Glucose,units,453,47,500
+2026-08-10,Fluid,IV Fluid,units,281,31,500
+2026-08-11,Bed,ICU Bed,beds,1,15,20
+2026-08-11,Bed,General Bed,beds,19,71,100
+2026-08-11,Equipment,Ventilator,units,4,7,10
+2026-08-11,Medicine,Paracetamol,tablets,2844,548,5000
+2026-08-11,Fluid,Glucose,units,400,63,500
+2026-08-11,Fluid,IV Fluid,units,458,39,500
+2026-08-12,Bed,ICU Bed,beds,1,14,20
+2026-08-12,Bed,General Bed,beds,21,85,100
+2026-08-12,Equipment,Ventilator,units,4,6,10
+2026-08-12,Medicine,Paracetamol,tablets,2876,683,5000
+2026-08-12,Fluid,Glucose,units,462,72,500
+2026-08-12,Fluid,IV Fluid,units,281,35,500
+2026-08-13,Bed,ICU Bed,beds,4,14,20
+2026-08-13,Bed,General Bed,beds,20,83,100
+2026-08-13,Equipment,Ventilator,units,4,8,10
+2026-08-13,Medicine,Paracetamol,tablets,4532,265,5000
+2026-08-13,Fluid,Glucose,units,347,84,500
+2026-08-13,Fluid,IV Fluid,units,294,75,500
+2026-08-14,Bed,ICU Bed,beds,2,15,20
+2026-08-14,Bed,General Bed,beds,23,73,100
+2026-08-14,Equipment,Ventilator,units,4,6,10
+2026-08-14,Medicine,Paracetamol,tablets,2641,564,5000
+2026-08-14,Fluid,Glucose,units,408,61,500
+2026-08-14,Fluid,IV Fluid,units,415,67,500
+2026-08-15,Bed,ICU Bed,beds,4,17,20
+2026-08-15,Bed,General Bed,beds,32,80,100
+2026-08-15,Equipment,Ventilator,units,1,5,10
+2026-08-15,Medicine,Paracetamol,tablets,3645,446,5000
+2026-08-15,Fluid,Glucose,units,285,83,500
+2026-08-15,Fluid,IV Fluid,units,301,97,500
+2026-08-16,Bed,ICU Bed,beds,2,19,20
+2026-08-16,Bed,General Bed,beds,32,90,100
+2026-08-16,Equipment,Ventilator,units,1,8,10
+2026-08-16,Medicine,Paracetamol,tablets,3970,495,5000
+2026-08-16,Fluid,Glucose,units,389,92,500
+2026-08-16,Fluid,IV Fluid,units,338,94,500
+2026-08-17,Bed,ICU Bed,beds,3,17,20
+2026-08-17,Bed,General Bed,beds,23,70,100
+2026-08-17,Equipment,Ventilator,units,1,7,10
+2026-08-17,Medicine,Paracetamol,tablets,3397,265,5000
+2026-08-17,Fluid,Glucose,units,479,65,500
+2026-08-17,Fluid,IV Fluid,units,264,90,500
+2026-08-18,Bed,ICU Bed,beds,5,16,20
+2026-08-18,Bed,General Bed,beds,33,72,100
+2026-08-18,Equipment,Ventilator,units,2,5,10
+2026-08-18,Medicine,Paracetamol,tablets,3515,586,5000
+2026-08-18,Fluid,Glucose,units,311,64,500
+2026-08-18,Fluid,IV Fluid,units,386,37,500
+2026-08-19,Bed,ICU Bed,beds,2,18,20
+2026-08-19,Bed,General Bed,beds,27,76,100
+2026-08-19,Equipment,Ventilator,units,2,6,10
+2026-08-19,Medicine,Paracetamol,tablets,3468,553,5000
+2026-08-19,Fluid,Glucose,units,331,75,500
+2026-08-19,Fluid,IV Fluid,units,401,33,500
+2026-08-20,Bed,ICU Bed,beds,3,18,20
+2026-08-20,Bed,General Bed,beds,33,69,100
+2026-08-20,Equipment,Ventilator,units,2,8,10
+2026-08-20,Medicine,Paracetamol,tablets,4720,408,5000
+2026-08-20,Fluid,Glucose,units,294,92,500
+2026-08-20,Fluid,IV Fluid,units,259,41,500
+2026-08-21,Bed,ICU Bed,beds,1,15,20
+2026-08-21,Bed,General Bed,beds,34,72,100
+2026-08-21,Equipment,Ventilator,units,1,9,10
+2026-08-21,Medicine,Paracetamol,tablets,4457,250,5000
+2026-08-21,Fluid,Glucose,units,334,55,500
+2026-08-21,Fluid,IV Fluid,units,456,46,500
+2026-08-22,Bed,ICU Bed,beds,3,19,20
+2026-08-22,Bed,General Bed,beds,20,90,100
+2026-08-22,Equipment,Ventilator,units,3,5,10
+2026-08-22,Medicine,Paracetamol,tablets,2589,325,5000
+2026-08-22,Fluid,Glucose,units,400,48,500
+2026-08-22,Fluid,IV Fluid,units,448,44,500
+2026-08-23,Bed,ICU Bed,beds,5,16,20
+2026-08-23,Bed,General Bed,beds,17,76,100
+2026-08-23,Equipment,Ventilator,units,4,9,10
+2026-08-23,Medicine,Paracetamol,tablets,2913,422,5000
+2026-08-23,Fluid,Glucose,units,327,71,500
+2026-08-23,Fluid,IV Fluid,units,284,50,500
+2026-08-24,Bed,ICU Bed,beds,4,19,20
+2026-08-24,Bed,General Bed,beds,30,85,100
+2026-08-24,Equipment,Ventilator,units,3,6,10
+2026-08-24,Medicine,Paracetamol,tablets,3961,364,5000
+2026-08-24,Fluid,Glucose,units,420,52,500
+2026-08-24,Fluid,IV Fluid,units,346,69,500
+2026-08-25,Bed,ICU Bed,beds,3,15,20
+2026-08-25,Bed,General Bed,beds,20,88,100
+2026-08-25,Equipment,Ventilator,units,1,9,10
+2026-08-25,Medicine,Paracetamol,tablets,4103,685,5000
+2026-08-25,Fluid,Glucose,units,447,34,500
+2026-08-25,Fluid,IV Fluid,units,296,70,500
+2026-08-26,Bed,ICU Bed,beds,5,15,20
+2026-08-26,Bed,General Bed,beds,35,83,100
+2026-08-26,Equipment,Ventilator,units,1,8,10
+2026-08-26,Medicine,Paracetamol,tablets,3076,419,5000
+2026-08-26,Fluid,Glucose,units,440,39,500
+2026-08-26,Fluid,IV Fluid,units,310,74,500
+2026-08-27,Bed,ICU Bed,beds,3,15,20
+2026-08-27,Bed,General Bed,beds,35,67,100
+2026-08-27,Equipment,Ventilator,units,3,8,10
+2026-08-27,Medicine,Paracetamol,tablets,2546,385,5000
+2026-08-27,Fluid,Glucose,units,303,61,500
+2026-08-27,Fluid,IV Fluid,units,427,38,500
+2026-08-28,Bed,ICU Bed,beds,3,16,20
+2026-08-28,Bed,General Bed,beds,18,88,100
+2026-08-28,Equipment,Ventilator,units,1,5,10
+2026-08-28,Medicine,Paracetamol,tablets,4080,474,5000
+2026-08-28,Fluid,Glucose,units,437,83,500
+2026-08-28,Fluid,IV Fluid,units,292,82,500
+2026-08-29,Bed,ICU Bed,beds,4,17,20
+2026-08-29,Bed,General Bed,beds,26,82,100
+2026-08-29,Equipment,Ventilator,units,4,5,10
+2026-08-29,Medicine,Paracetamol,tablets,4463,653,5000
+2026-08-29,Fluid,Glucose,units,471,58,500
+2026-08-29,Fluid,IV Fluid,units,291,87,500
+2026-08-30,Bed,ICU Bed,beds,1,14,20
+2026-08-30,Bed,General Bed,beds,24,65,100
+2026-08-30,Equipment,Ventilator,units,3,7,10
+2026-08-30,Medicine,Paracetamol,tablets,2928,287,5000
+2026-08-30,Fluid,Glucose,units,337,51,500
+2026-08-30,Fluid,IV Fluid,units,477,78,500
+2026-08-31,Bed,ICU Bed,beds,2,19,20
+2026-08-31,Bed,General Bed,beds,17,82,100
+2026-08-31,Equipment,Ventilator,units,1,7,10
+2026-08-31,Medicine,Paracetamol,tablets,4477,610,5000
+2026-08-31,Fluid,Glucose,units,257,85,500
+2026-08-31,Fluid,IV Fluid,units,417,51,500
+2026-09-01,Bed,ICU Bed,beds,5,17,20
+2026-09-01,Bed,General Bed,beds,20,66,100
+2026-09-01,Equipment,Ventilator,units,1,7,10
+2026-09-01,Medicine,Paracetamol,tablets,3341,347,5000
+2026-09-01,Fluid,Glucose,units,354,100,500
+2026-09-01,Fluid,IV Fluid,units,434,99,500
+2026-09-02,Bed,ICU Bed,beds,3,19,20
+2026-09-02,Bed,General Bed,beds,24,74,100
+2026-09-02,Equipment,Ventilator,units,2,5,10
+2026-09-02,Medicine,Paracetamol,tablets,2703,451,5000
+2026-09-02,Fluid,Glucose,units,396,100,500
+2026-09-02,Fluid,IV Fluid,units,465,92,500
+2026-09-03,Bed,ICU Bed,beds,2,14,20
+2026-09-03,Bed,General Bed,beds,26,65,100
+2026-09-03,Equipment,Ventilator,units,4,5,10
+2026-09-03,Medicine,Paracetamol,tablets,3706,671,5000
+2026-09-03,Fluid,Glucose,units,419,91,500
+2026-09-03,Fluid,IV Fluid,units,301,42,500
+2026-09-04,Bed,ICU Bed,beds,1,15,20
+2026-09-04,Bed,General Bed,beds,20,85,100
+2026-09-04,Equipment,Ventilator,units,3,5,10
+2026-09-04,Medicine,Paracetamol,tablets,4439,682,5000
+2026-09-04,Fluid,Glucose,units,279,69,500
+2026-09-04,Fluid,IV Fluid,units,450,80,500
+2026-09-05,Bed,ICU Bed,beds,4,17,20
+2026-09-05,Bed,General Bed,beds,23,67,100
+2026-09-05,Equipment,Ventilator,units,4,6,10
+2026-09-05,Medicine,Paracetamol,tablets,4019,445,5000
+2026-09-05,Fluid,Glucose,units,344,53,500
+2026-09-05,Fluid,IV Fluid,units,364,35,500
+2026-09-06,Bed,ICU Bed,beds,3,17,20
+2026-09-06,Bed,General Bed,beds,29,73,100
+2026-09-06,Equipment,Ventilator,units,2,7,10
+2026-09-06,Medicine,Paracetamol,tablets,2752,327,5000
+2026-09-06,Fluid,Glucose,units,442,42,500
+2026-09-06,Fluid,IV Fluid,units,271,74,500
+2026-09-07,Bed,ICU Bed,beds,5,17,20
+2026-09-07,Bed,General Bed,beds,33,72,100
+2026-09-07,Equipment,Ventilator,units,1,8,10
+2026-09-07,Medicine,Paracetamol,tablets,4640,464,5000
+2026-09-07,Fluid,Glucose,units,387,90,500
+2026-09-07,Fluid,IV Fluid,units,396,60,500
+2026-09-08,Bed,ICU Bed,beds,4,16,20
+2026-09-08,Bed,General Bed,beds,17,77,100
+2026-09-08,Equipment,Ventilator,units,1,9,10
+2026-09-08,Medicine,Paracetamol,tablets,4616,659,5000
+2026-09-08,Fluid,Glucose,units,396,48,500
+2026-09-08,Fluid,IV Fluid,units,280,87,500
+2026-09-09,Bed,ICU Bed,beds,2,15,20
+2026-09-09,Bed,General Bed,beds,21,90,100
+2026-09-09,Equipment,Ventilator,units,2,6,10
+2026-09-09,Medicine,Paracetamol,tablets,2674,466,5000
+2026-09-09,Fluid,Glucose,units,270,85,500
+2026-09-09,Fluid,IV Fluid,units,301,48,500
+2026-09-10,Bed,ICU Bed,beds,5,16,20
+2026-09-10,Bed,General Bed,beds,25,88,100
+2026-09-10,Equipment,Ventilator,units,1,5,10
+2026-09-10,Medicine,Paracetamol,tablets,4089,534,5000
+2026-09-10,Fluid,Glucose,units,351,100,500
+2026-09-10,Fluid,IV Fluid,units,333,65,500
+2026-09-11,Bed,ICU Bed,beds,5,17,20
+2026-09-11,Bed,General Bed,beds,15,90,100
+2026-09-11,Equipment,Ventilator,units,4,5,10
+2026-09-11,Medicine,Paracetamol,tablets,4197,326,5000
+2026-09-11,Fluid,Glucose,units,287,42,500
+2026-09-11,Fluid,IV Fluid,units,277,42,500
+2026-09-12,Bed,ICU Bed,beds,3,18,20
+2026-09-12,Bed,General Bed,beds,26,78,100
+2026-09-12,Equipment,Ventilator,units,3,8,10
+2026-09-12,Medicine,Paracetamol,tablets,4488,542,5000
+2026-09-12,Fluid,Glucose,units,405,90,500
+2026-09-12,Fluid,IV Fluid,units,259,52,500
+2026-09-13,Bed,ICU Bed,beds,3,17,20
+2026-09-13,Bed,General Bed,beds,19,84,100
+2026-09-13,Equipment,Ventilator,units,4,5,10
+2026-09-13,Medicine,Paracetamol,tablets,4121,700,5000
+2026-09-13,Fluid,Glucose,units,334,60,500
+2026-09-13,Fluid,IV Fluid,units,262,90,500
+2026-09-14,Bed,ICU Bed,beds,3,16,20
+2026-09-14,Bed,General Bed,beds,15,75,100
+2026-09-14,Equipment,Ventilator,units,3,7,10
+2026-09-14,Medicine,Paracetamol,tablets,3648,681,5000
+2026-09-14,Fluid,Glucose,units,375,42,500
+2026-09-14,Fluid,IV Fluid,units,472,59,500
+2026-09-15,Bed,ICU Bed,beds,2,16,20
+2026-09-15,Bed,General Bed,beds,29,89,100
+2026-09-15,Equipment,Ventilator,units,3,7,10
+2026-09-15,Medicine,Paracetamol,tablets,4207,559,5000
+2026-09-15,Fluid,Glucose,units,415,41,500
+2026-09-15,Fluid,IV Fluid,units,298,86,500
+2026-09-16,Bed,ICU Bed,beds,2,17,20
+2026-09-16,Bed,General Bed,beds,30,89,100
+2026-09-16,Equipment,Ventilator,units,3,5,10
+2026-09-16,Medicine,Paracetamol,tablets,4610,655,5000
+2026-09-16,Fluid,Glucose,units,290,38,500
+2026-09-16,Fluid,IV Fluid,units,329,94,500
+2026-09-17,Bed,ICU Bed,beds,4,15,20
+2026-09-17,Bed,General Bed,beds,31,83,100
+2026-09-17,Equipment,Ventilator,units,1,6,10
+2026-09-17,Medicine,Paracetamol,tablets,3289,698,5000
+2026-09-17,Fluid,Glucose,units,463,55,500
+2026-09-17,Fluid,IV Fluid,units,464,37,500
+2026-09-18,Bed,ICU Bed,beds,2,14,20
+2026-09-18,Bed,General Bed,beds,29,66,100
+2026-09-18,Equipment,Ventilator,units,3,6,10
+2026-09-18,Medicine,Paracetamol,tablets,3622,438,5000
+2026-09-18,Fluid,Glucose,units,460,89,500
+2026-09-18,Fluid,IV Fluid,units,379,80,500
+2026-09-19,Bed,ICU Bed,beds,1,19,20
+2026-09-19,Bed,General Bed,beds,15,72,100
+2026-09-19,Equipment,Ventilator,units,3,8,10
+2026-09-19,Medicine,Paracetamol,tablets,4327,340,5000
+2026-09-19,Fluid,Glucose,units,472,90,500
+2026-09-19,Fluid,IV Fluid,units,400,100,500
+2026-09-20,Bed,ICU Bed,beds,3,16,20
+2026-09-20,Bed,General Bed,beds,20,73,100
+2026-09-20,Equipment,Ventilator,units,1,7,10
+2026-09-20,Medicine,Paracetamol,tablets,2612,447,5000
+2026-09-20,Fluid,Glucose,units,262,50,500
+2026-09-20,Fluid,IV Fluid,units,468,57,500
+2026-09-21,Bed,ICU Bed,beds,2,19,20
+2026-09-21,Bed,General Bed,beds,22,86,100
+2026-09-21,Equipment,Ventilator,units,2,7,10
+2026-09-21,Medicine,Paracetamol,tablets,4177,512,5000
+2026-09-21,Fluid,Glucose,units,255,31,500
+2026-09-21,Fluid,IV Fluid,units,371,46,500
+2026-09-22,Bed,ICU Bed,beds,2,18,20
+2026-09-22,Bed,General Bed,beds,15,72,100
+2026-09-22,Equipment,Ventilator,units,3,9,10
+2026-09-22,Medicine,Paracetamol,tablets,3751,614,5000
+2026-09-22,Fluid,Glucose,units,431,65,500
+2026-09-22,Fluid,IV Fluid,units,358,78,500
+2026-09-23,Bed,ICU Bed,beds,3,17,20
+2026-09-23,Bed,General Bed,beds,23,71,100
+2026-09-23,Equipment,Ventilator,units,4,7,10
+2026-09-23,Medicine,Paracetamol,tablets,4632,672,5000
+2026-09-23,Fluid,Glucose,units,409,80,500
+2026-09-23,Fluid,IV Fluid,units,399,43,500
+2026-09-24,Bed,ICU Bed,beds,1,18,20
+2026-09-24,Bed,General Bed,beds,26,82,100
+2026-09-24,Equipment,Ventilator,units,3,7,10
+2026-09-24,Medicine,Paracetamol,tablets,2942,496,5000
+2026-09-24,Fluid,Glucose,units,266,73,500
+2026-09-24,Fluid,IV Fluid,units,320,71,500
+2026-09-25,Bed,ICU Bed,beds,3,16,20
+2026-09-25,Bed,General Bed,beds,35,87,100
+2026-09-25,Equipment,Ventilator,units,3,6,10
+2026-09-25,Medicine,Paracetamol,tablets,3114,514,5000
+2026-09-25,Fluid,Glucose,units,445,60,500
+2026-09-25,Fluid,IV Fluid,units,480,37,500
+2026-09-26,Bed,ICU Bed,beds,5,17,20
+2026-09-26,Bed,General Bed,beds,25,86,100
+2026-09-26,Equipment,Ventilator,units,2,5,10
+2026-09-26,Medicine,Paracetamol,tablets,4537,401,5000
+2026-09-26,Fluid,Glucose,units,316,83,500
+2026-09-26,Fluid,IV Fluid,units,353,79,500
+2026-09-27,Bed,ICU Bed,beds,1,18,20
+2026-09-27,Bed,General Bed,beds,33,71,100
+2026-09-27,Equipment,Ventilator,units,3,6,10
+2026-09-27,Medicine,Paracetamol,tablets,4689,576,5000
+2026-09-27,Fluid,Glucose,units,450,90,500
+2026-09-27,Fluid,IV Fluid,units,421,75,500
+2026-09-28,Bed,ICU Bed,beds,5,16,20
+2026-09-28,Bed,General Bed,beds,20,86,100
+2026-09-28,Equipment,Ventilator,units,2,7,10
+2026-09-28,Medicine,Paracetamol,tablets,2899,491,5000
+2026-09-28,Fluid,Glucose,units,282,63,500
+2026-09-28,Fluid,IV Fluid,units,435,53,500
+2026-09-29,Bed,ICU Bed,beds,3,19,20
+2026-09-29,Bed,General Bed,beds,17,72,100
+2026-09-29,Equipment,Ventilator,units,3,6,10
+2026-09-29,Medicine,Paracetamol,tablets,3757,465,5000
+2026-09-29,Fluid,Glucose,units,451,72,500
+2026-09-29,Fluid,IV Fluid,units,345,63,500
+2026-09-30,Bed,ICU Bed,beds,5,16,20
+2026-09-30,Bed,General Bed,beds,29,68,100
+2026-09-30,Equipment,Ventilator,units,4,5,10
+2026-09-30,Medicine,Paracetamol,tablets,2791,491,5000
+2026-09-30,Fluid,Glucose,units,477,54,500
+2026-09-30,Fluid,IV Fluid,units,378,45,500

@@ -1,0 +1,43 @@
+﻿# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+secrets/
+**/secrets/
+
+# Python virtual environments and generated files
+venv/
+.venv/
+**/venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Node.js and frontend build output
+node_modules/
+dist/
+build/
+
+# Uploaded and private data
+uploads/
+datasets/raw/
+datasets/private/
+private hospital datasets/
+
+# Session cookies and local login artifacts
+*cookie*
+cookies*.txt
+login.json
+user*_login.json
+
+# Temporary test exports
+phase12_download_check*.csv
+
+/test_phase12_upload.py
+/test_phase12_resource_upload.py
+/ml/artifacts/dengai/iq_sarima.joblib

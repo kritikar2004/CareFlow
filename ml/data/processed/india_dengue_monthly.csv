@@ -1,0 +1,631 @@
+state,date,dengue_cases
+A&N Island,2018-01-01,0.0
+A&N Island,2018-02-01,1.0
+A&N Island,2018-03-01,2.0
+A&N Island,2018-04-01,1.0
+A&N Island,2018-05-01,5.0
+A&N Island,2018-06-01,2.0
+A&N Island,2018-07-01,0.0
+A&N Island,2018-08-01,0.0
+A&N Island,2018-09-01,10.0
+A&N Island,2018-10-01,12.0
+A&N Island,2018-11-01,6.0
+A&N Island,2018-12-01,10.0
+A&N Island,2019-01-01,24.0
+A&N Island,2019-02-01,0.0
+A&N Island,2019-03-01,0.0
+A&N Island,2019-04-01,0.0
+A&N Island,2019-05-01,1.0
+A&N Island,2019-06-01,0.0
+Andhara Pradesh,2018-01-01,90.0
+Andhara Pradesh,2018-02-01,81.0
+Andhara Pradesh,2018-03-01,77.0
+Andhara Pradesh,2018-04-01,46.0
+Andhara Pradesh,2018-05-01,69.0
+Andhara Pradesh,2018-06-01,285.0
+Andhara Pradesh,2018-07-01,928.0
+Andhara Pradesh,2018-08-01,1162.0
+Andhara Pradesh,2018-09-01,576.0
+Andhara Pradesh,2018-10-01,348.0
+Andhara Pradesh,2018-11-01,199.0
+Andhara Pradesh,2018-12-01,150.0
+Andhara Pradesh,2019-01-01,62.0
+Andhara Pradesh,2019-02-01,32.0
+Andhara Pradesh,2019-03-01,56.0
+Andhara Pradesh,2019-04-01,87.0
+Andhara Pradesh,2019-05-01,71.0
+Andhara Pradesh,2019-06-01,141.0
+Arunachal Pradesh,2018-01-01,0.0
+Arunachal Pradesh,2018-02-01,0.0
+Arunachal Pradesh,2018-03-01,0.0
+Arunachal Pradesh,2018-04-01,0.0
+Arunachal Pradesh,2018-05-01,0.0
+Arunachal Pradesh,2018-06-01,0.0
+Arunachal Pradesh,2018-07-01,0.0
+Arunachal Pradesh,2018-08-01,1.0
+Arunachal Pradesh,2018-09-01,0.0
+Arunachal Pradesh,2018-10-01,0.0
+Arunachal Pradesh,2018-11-01,0.0
+Arunachal Pradesh,2018-12-01,0.0
+Arunachal Pradesh,2019-01-01,0.0
+Arunachal Pradesh,2019-02-01,0.0
+Arunachal Pradesh,2019-03-01,0.0
+Arunachal Pradesh,2019-04-01,0.0
+Arunachal Pradesh,2019-05-01,0.0
+Arunachal Pradesh,2019-06-01,0.0
+Assam,2018-01-01,2.0
+Assam,2018-02-01,1.0
+Assam,2018-03-01,2.0
+Assam,2018-04-01,2.0
+Assam,2018-05-01,3.0
+Assam,2018-06-01,20.0
+Assam,2018-07-01,17.0
+Assam,2018-08-01,10.0
+Assam,2018-09-01,20.0
+Assam,2018-10-01,30.0
+Assam,2018-11-01,56.0
+Assam,2018-12-01,3.0
+Assam,2019-01-01,0.0
+Assam,2019-02-01,4.0
+Assam,2019-03-01,4.0
+Assam,2019-04-01,3.0
+Assam,2019-05-01,3.0
+Assam,2019-06-01,3.0
+Bihar,2018-01-01,2.0
+Bihar,2018-02-01,0.0
+Bihar,2018-03-01,0.0
+Bihar,2018-04-01,0.0
+Bihar,2018-05-01,0.0
+Bihar,2018-06-01,3.0
+Bihar,2018-07-01,3.0
+Bihar,2018-08-01,45.0
+Bihar,2018-09-01,166.0
+Bihar,2018-10-01,841.0
+Bihar,2018-11-01,1028.0
+Bihar,2018-12-01,54.0
+Bihar,2019-01-01,0.0
+Bihar,2019-02-01,0.0
+Bihar,2019-03-01,0.0
+Bihar,2019-04-01,0.0
+Bihar,2019-05-01,3.0
+Bihar,2019-06-01,2.0
+Chandigarh,2018-01-01,3.0
+Chandigarh,2018-02-01,1.0
+Chandigarh,2018-03-01,1.0
+Chandigarh,2018-04-01,0.0
+Chandigarh,2018-05-01,2.0
+Chandigarh,2018-06-01,5.0
+Chandigarh,2018-07-01,5.0
+Chandigarh,2018-08-01,17.0
+Chandigarh,2018-09-01,56.0
+Chandigarh,2018-10-01,115.0
+Chandigarh,2018-11-01,80.0
+Chandigarh,2018-12-01,16.0
+Chandigarh,2019-01-01,0.0
+Chandigarh,2019-02-01,0.0
+Chandigarh,2019-03-01,0.0
+Chandigarh,2019-04-01,0.0
+Chandigarh,2019-05-01,0.0
+Chandigarh,2019-06-01,7.0
+Chhattisgarh,2018-01-01,3.0
+Chhattisgarh,2018-02-01,4.0
+Chhattisgarh,2018-03-01,1.0
+Chhattisgarh,2018-04-01,0.0
+Chhattisgarh,2018-05-01,3.0
+Chhattisgarh,2018-06-01,7.0
+Chhattisgarh,2018-07-01,170.0
+Chhattisgarh,2018-08-01,587.0
+Chhattisgarh,2018-09-01,1200.0
+Chhattisgarh,2018-10-01,465.0
+Chhattisgarh,2018-11-01,189.0
+Chhattisgarh,2018-12-01,45.0
+Chhattisgarh,2019-01-01,18.0
+Chhattisgarh,2019-02-01,23.0
+Chhattisgarh,2019-03-01,12.0
+Chhattisgarh,2019-04-01,5.0
+Chhattisgarh,2019-05-01,30.0
+Chhattisgarh,2019-06-01,8.0
+D&N Haveli,2018-01-01,13.0
+D&N Haveli,2018-02-01,3.0
+D&N Haveli,2018-03-01,4.0
+D&N Haveli,2018-04-01,7.0
+D&N Haveli,2018-05-01,11.0
+D&N Haveli,2018-06-01,25.0
+D&N Haveli,2018-07-01,18.0
+D&N Haveli,2018-08-01,44.0
+D&N Haveli,2018-09-01,85.0
+D&N Haveli,2018-10-01,160.0
+D&N Haveli,2018-11-01,94.0
+D&N Haveli,2018-12-01,29.0
+D&N Haveli,2019-01-01,0.0
+D&N Haveli,2019-02-01,4.0
+D&N Haveli,2019-03-01,4.0
+D&N Haveli,2019-04-01,4.0
+D&N Haveli,2019-05-01,4.0
+D&N Haveli,2019-06-01,6.0
+Daman & Diu,2018-01-01,2.0
+Daman & Diu,2018-02-01,1.0
+Daman & Diu,2018-03-01,0.0
+Daman & Diu,2018-04-01,0.0
+Daman & Diu,2018-05-01,0.0
+Daman & Diu,2018-06-01,4.0
+Daman & Diu,2018-07-01,3.0
+Daman & Diu,2018-08-01,8.0
+Daman & Diu,2018-09-01,36.0
+Daman & Diu,2018-10-01,60.0
+Daman & Diu,2018-11-01,35.0
+Daman & Diu,2018-12-01,14.0
+Daman & Diu,2019-01-01,0.0
+Daman & Diu,2019-02-01,0.0
+Daman & Diu,2019-03-01,0.0
+Daman & Diu,2019-04-01,0.0
+Daman & Diu,2019-05-01,0.0
+Daman & Diu,2019-06-01,1.0
+Delhi,2018-01-01,5.0
+Delhi,2018-02-01,10.0
+Delhi,2018-03-01,3.0
+Delhi,2018-04-01,8.0
+Delhi,2018-05-01,8.0
+Delhi,2018-06-01,24.0
+Delhi,2018-07-01,49.0
+Delhi,2018-08-01,160.0
+Delhi,2018-09-01,889.0
+Delhi,2018-10-01,2245.0
+Delhi,2018-11-01,2813.0
+Delhi,2018-12-01,922.0
+Delhi,2019-01-01,1.0
+Delhi,2019-02-01,18.0
+Delhi,2019-03-01,5.0
+Delhi,2019-04-01,16.0
+Delhi,2019-05-01,13.0
+Delhi,2019-06-01,38.0
+Goa,2018-01-01,20.0
+Goa,2018-02-01,8.0
+Goa,2018-03-01,11.0
+Goa,2018-04-01,7.0
+Goa,2018-05-01,10.0
+Goa,2018-06-01,68.0
+Goa,2018-07-01,71.0
+Goa,2018-08-01,41.0
+Goa,2018-09-01,36.0
+Goa,2018-10-01,31.0
+Goa,2018-11-01,19.0
+Goa,2018-12-01,13.0
+Goa,2019-01-01,16.0
+Goa,2019-02-01,7.0
+Goa,2019-03-01,8.0
+Goa,2019-04-01,9.0
+Goa,2019-05-01,6.0
+Goa,2019-06-01,47.0
+Gujarat,2018-01-01,141.0
+Gujarat,2018-02-01,102.0
+Gujarat,2018-03-01,89.0
+Gujarat,2018-04-01,72.0
+Gujarat,2018-05-01,100.0
+Gujarat,2018-06-01,76.0
+Gujarat,2018-07-01,196.0
+Gujarat,2018-08-01,583.0
+Gujarat,2018-09-01,1518.0
+Gujarat,2018-10-01,2854.0
+Gujarat,2018-11-01,1347.0
+Gujarat,2018-12-01,501.0
+Gujarat,2019-01-01,111.0
+Gujarat,2019-02-01,55.0
+Gujarat,2019-03-01,59.0
+Gujarat,2019-04-01,39.0
+Gujarat,2019-05-01,76.0
+Gujarat,2019-06-01,54.0
+Haryana,2018-01-01,0.0
+Haryana,2018-02-01,0.0
+Haryana,2018-03-01,0.0
+Haryana,2018-04-01,3.0
+Haryana,2018-05-01,2.0
+Haryana,2018-06-01,2.0
+Haryana,2018-07-01,9.0
+Haryana,2018-08-01,40.0
+Haryana,2018-09-01,245.0
+Haryana,2018-10-01,768.0
+Haryana,2018-11-01,685.0
+Haryana,2018-12-01,144.0
+Haryana,2019-01-01,0.0
+Haryana,2019-02-01,0.0
+Haryana,2019-03-01,0.0
+Haryana,2019-04-01,0.0
+Haryana,2019-05-01,2.0
+Haryana,2019-06-01,1.0
+Himachal Pradesh,2018-01-01,0.0
+Himachal Pradesh,2018-02-01,0.0
+Himachal Pradesh,2018-03-01,0.0
+Himachal Pradesh,2018-04-01,0.0
+Himachal Pradesh,2018-05-01,0.0
+Himachal Pradesh,2018-06-01,65.0
+Himachal Pradesh,2018-07-01,481.0
+Himachal Pradesh,2018-08-01,1276.0
+Himachal Pradesh,2018-09-01,1481.0
+Himachal Pradesh,2018-10-01,1131.0
+Himachal Pradesh,2018-11-01,228.0
+Himachal Pradesh,2018-12-01,10.0
+Himachal Pradesh,2019-01-01,5.0
+Himachal Pradesh,2019-02-01,4.0
+Himachal Pradesh,2019-03-01,1.0
+Himachal Pradesh,2019-04-01,3.0
+Himachal Pradesh,2019-05-01,1.0
+Himachal Pradesh,2019-06-01,4.0
+J & K,2018-01-01,0.0
+J & K,2018-02-01,0.0
+J & K,2018-03-01,0.0
+J & K,2018-04-01,0.0
+J & K,2018-05-01,1.0
+J & K,2018-06-01,0.0
+J & K,2018-07-01,1.0
+J & K,2018-08-01,0.0
+J & K,2018-09-01,21.0
+J & K,2018-10-01,131.0
+J & K,2018-11-01,53.0
+J & K,2018-12-01,7.0
+J & K,2019-01-01,0.0
+J & K,2019-02-01,0.0
+J & K,2019-03-01,0.0
+J & K,2019-04-01,0.0
+J & K,2019-05-01,0.0
+J & K,2019-06-01,0.0
+Jharkhand,2018-01-01,1.0
+Jharkhand,2018-02-01,0.0
+Jharkhand,2018-03-01,0.0
+Jharkhand,2018-04-01,3.0
+Jharkhand,2018-05-01,3.0
+Jharkhand,2018-06-01,7.0
+Jharkhand,2018-07-01,18.0
+Jharkhand,2018-08-01,103.0
+Jharkhand,2018-09-01,104.0
+Jharkhand,2018-10-01,77.0
+Jharkhand,2018-11-01,126.0
+Jharkhand,2018-12-01,21.0
+Jharkhand,2019-01-01,5.0
+Jharkhand,2019-02-01,1.0
+Jharkhand,2019-03-01,6.0
+Jharkhand,2019-04-01,10.0
+Jharkhand,2019-05-01,4.0
+Jharkhand,2019-06-01,6.0
+Karnataka,2018-01-01,154.0
+Karnataka,2018-02-01,298.0
+Karnataka,2018-03-01,230.0
+Karnataka,2018-04-01,138.0
+Karnataka,2018-05-01,186.0
+Karnataka,2018-06-01,415.0
+Karnataka,2018-07-01,606.0
+Karnataka,2018-08-01,362.0
+Karnataka,2018-09-01,300.0
+Karnataka,2018-10-01,601.0
+Karnataka,2018-11-01,318.0
+Karnataka,2018-12-01,819.0
+Karnataka,2019-01-01,51.0
+Karnataka,2019-02-01,199.0
+Karnataka,2019-03-01,247.0
+Karnataka,2019-04-01,219.0
+Karnataka,2019-05-01,414.0
+Karnataka,2019-06-01,803.0
+Kerala,2018-01-01,167.0
+Kerala,2018-02-01,94.0
+Kerala,2018-03-01,72.0
+Kerala,2018-04-01,73.0
+Kerala,2018-05-01,439.0
+Kerala,2018-06-01,1454.0
+Kerala,2018-07-01,779.0
+Kerala,2018-08-01,293.0
+Kerala,2018-09-01,282.0
+Kerala,2018-10-01,181.0
+Kerala,2018-11-01,135.0
+Kerala,2018-12-01,114.0
+Kerala,2019-01-01,72.0
+Kerala,2019-02-01,62.0
+Kerala,2019-03-01,58.0
+Kerala,2019-04-01,64.0
+Kerala,2019-05-01,100.0
+Kerala,2019-06-01,464.0
+Madhya Pradesh,2018-01-01,6.0
+Madhya Pradesh,2018-02-01,10.0
+Madhya Pradesh,2018-03-01,3.0
+Madhya Pradesh,2018-04-01,6.0
+Madhya Pradesh,2018-05-01,9.0
+Madhya Pradesh,2018-06-01,17.0
+Madhya Pradesh,2018-07-01,104.0
+Madhya Pradesh,2018-08-01,302.0
+Madhya Pradesh,2018-09-01,853.0
+Madhya Pradesh,2018-10-01,1928.0
+Madhya Pradesh,2018-11-01,1130.0
+Madhya Pradesh,2018-12-01,138.0
+Madhya Pradesh,2019-01-01,10.0
+Madhya Pradesh,2019-02-01,22.0
+Madhya Pradesh,2019-03-01,13.0
+Madhya Pradesh,2019-04-01,7.0
+Madhya Pradesh,2019-05-01,5.0
+Madhya Pradesh,2019-06-01,19.0
+Maharashtra,2018-01-01,120.0
+Maharashtra,2018-02-01,59.0
+Maharashtra,2018-03-01,55.0
+Maharashtra,2018-04-01,122.0
+Maharashtra,2018-05-01,187.0
+Maharashtra,2018-06-01,550.0
+Maharashtra,2018-07-01,1046.0
+Maharashtra,2018-08-01,1728.0
+Maharashtra,2018-09-01,2047.0
+Maharashtra,2018-10-01,2278.0
+Maharashtra,2018-11-01,1823.0
+Maharashtra,2018-12-01,996.0
+Maharashtra,2019-01-01,148.0
+Maharashtra,2019-02-01,154.0
+Maharashtra,2019-03-01,150.0
+Maharashtra,2019-04-01,134.0
+Maharashtra,2019-05-01,181.0
+Maharashtra,2019-06-01,202.0
+Manipur,2018-01-01,1.0
+Manipur,2018-02-01,0.0
+Manipur,2018-03-01,2.0
+Manipur,2018-04-01,1.0
+Manipur,2018-05-01,0.0
+Manipur,2018-06-01,0.0
+Manipur,2018-07-01,2.0
+Manipur,2018-08-01,2.0
+Manipur,2018-09-01,1.0
+Manipur,2018-10-01,3.0
+Manipur,2018-11-01,1.0
+Manipur,2018-12-01,1.0
+Manipur,2019-01-01,1.0
+Manipur,2019-02-01,0.0
+Manipur,2019-03-01,0.0
+Manipur,2019-04-01,0.0
+Manipur,2019-05-01,2.0
+Manipur,2019-06-01,2.0
+Meghalaya,2018-01-01,0.0
+Meghalaya,2018-02-01,0.0
+Meghalaya,2018-03-01,0.0
+Meghalaya,2018-04-01,0.0
+Meghalaya,2018-05-01,0.0
+Meghalaya,2018-06-01,0.0
+Meghalaya,2018-07-01,0.0
+Meghalaya,2018-08-01,16.0
+Meghalaya,2018-09-01,0.0
+Meghalaya,2018-10-01,0.0
+Meghalaya,2018-11-01,0.0
+Meghalaya,2018-12-01,28.0
+Meghalaya,2019-01-01,0.0
+Meghalaya,2019-02-01,0.0
+Meghalaya,2019-03-01,0.0
+Meghalaya,2019-04-01,0.0
+Meghalaya,2019-05-01,0.0
+Meghalaya,2019-06-01,0.0
+Mizoram,2018-01-01,4.0
+Mizoram,2018-02-01,6.0
+Mizoram,2018-03-01,12.0
+Mizoram,2018-04-01,12.0
+Mizoram,2018-05-01,13.0
+Mizoram,2018-06-01,6.0
+Mizoram,2018-07-01,4.0
+Mizoram,2018-08-01,4.0
+Mizoram,2018-09-01,2.0
+Mizoram,2018-10-01,2.0
+Mizoram,2018-11-01,3.0
+Mizoram,2018-12-01,0.0
+Mizoram,2019-01-01,0.0
+Mizoram,2019-02-01,0.0
+Mizoram,2019-03-01,5.0
+Mizoram,2019-04-01,1.0
+Mizoram,2019-05-01,0.0
+Mizoram,2019-06-01,0.0
+Nagaland,2018-01-01,0.0
+Nagaland,2018-02-01,0.0
+Nagaland,2018-03-01,0.0
+Nagaland,2018-04-01,0.0
+Nagaland,2018-05-01,0.0
+Nagaland,2018-06-01,0.0
+Nagaland,2018-07-01,0.0
+Nagaland,2018-08-01,88.0
+Nagaland,2018-09-01,147.0
+Nagaland,2018-10-01,77.0
+Nagaland,2018-11-01,57.0
+Nagaland,2018-12-01,0.0
+Nagaland,2019-01-01,0.0
+Nagaland,2019-02-01,0.0
+Nagaland,2019-03-01,0.0
+Nagaland,2019-04-01,0.0
+Nagaland,2019-05-01,0.0
+Nagaland,2019-06-01,2.0
+Odisha,2018-01-01,7.0
+Odisha,2018-02-01,6.0
+Odisha,2018-03-01,9.0
+Odisha,2018-04-01,8.0
+Odisha,2018-05-01,5.0
+Odisha,2018-06-01,191.0
+Odisha,2018-07-01,568.0
+Odisha,2018-08-01,1637.0
+Odisha,2018-09-01,1452.0
+Odisha,2018-10-01,915.0
+Odisha,2018-11-01,341.0
+Odisha,2018-12-01,59.0
+Odisha,2019-01-01,2.0
+Odisha,2019-02-01,0.0
+Odisha,2019-03-01,0.0
+Odisha,2019-04-01,0.0
+Odisha,2019-05-01,0.0
+Odisha,2019-06-01,61.0
+Puducherry,2018-01-01,60.0
+Puducherry,2018-02-01,31.0
+Puducherry,2018-03-01,5.0
+Puducherry,2018-04-01,4.0
+Puducherry,2018-05-01,3.0
+Puducherry,2018-06-01,2.0
+Puducherry,2018-07-01,9.0
+Puducherry,2018-08-01,15.0
+Puducherry,2018-09-01,51.0
+Puducherry,2018-10-01,95.0
+Puducherry,2018-11-01,179.0
+Puducherry,2018-12-01,138.0
+Puducherry,2019-01-01,64.0
+Puducherry,2019-02-01,72.0
+Puducherry,2019-03-01,49.0
+Puducherry,2019-04-01,60.0
+Puducherry,2019-05-01,23.0
+Puducherry,2019-06-01,27.0
+Punjab,2018-01-01,0.0
+Punjab,2018-02-01,0.0
+Punjab,2018-03-01,0.0
+Punjab,2018-04-01,0.0
+Punjab,2018-05-01,5.0
+Punjab,2018-06-01,3.0
+Punjab,2018-07-01,31.0
+Punjab,2018-08-01,317.0
+Punjab,2018-09-01,1970.0
+Punjab,2018-10-01,6555.0
+Punjab,2018-11-01,5454.0
+Punjab,2018-12-01,645.0
+Punjab,2019-01-01,0.0
+Punjab,2019-02-01,0.0
+Punjab,2019-03-01,0.0
+Punjab,2019-04-01,8.0
+Punjab,2019-05-01,3.0
+Punjab,2019-06-01,52.0
+Rajasthan,2018-01-01,483.0
+Rajasthan,2018-02-01,261.0
+Rajasthan,2018-03-01,252.0
+Rajasthan,2018-04-01,256.0
+Rajasthan,2018-05-01,278.0
+Rajasthan,2018-06-01,280.0
+Rajasthan,2018-07-01,239.0
+Rajasthan,2018-08-01,331.0
+Rajasthan,2018-09-01,962.0
+Rajasthan,2018-10-01,3917.0
+Rajasthan,2018-11-01,1928.0
+Rajasthan,2018-12-01,400.0
+Rajasthan,2019-01-01,123.0
+Rajasthan,2019-02-01,77.0
+Rajasthan,2019-03-01,57.0
+Rajasthan,2019-04-01,51.0
+Rajasthan,2019-05-01,44.0
+Rajasthan,2019-06-01,46.0
+Sikkim,2018-01-01,5.0
+Sikkim,2018-02-01,0.0
+Sikkim,2018-03-01,1.0
+Sikkim,2018-04-01,6.0
+Sikkim,2018-05-01,1.0
+Sikkim,2018-06-01,1.0
+Sikkim,2018-07-01,1.0
+Sikkim,2018-08-01,67.0
+Sikkim,2018-09-01,155.0
+Sikkim,2018-10-01,68.0
+Sikkim,2018-11-01,15.0
+Sikkim,2018-12-01,0.0
+Sikkim,2019-01-01,2.0
+Sikkim,2019-02-01,3.0
+Sikkim,2019-03-01,1.0
+Sikkim,2019-04-01,1.0
+Sikkim,2019-05-01,0.0
+Sikkim,2019-06-01,0.0
+Tamil Nadu,2018-01-01,917.0
+Tamil Nadu,2018-02-01,308.0
+Tamil Nadu,2018-03-01,144.0
+Tamil Nadu,2018-04-01,87.0
+Tamil Nadu,2018-05-01,71.0
+Tamil Nadu,2018-06-01,98.0
+Tamil Nadu,2018-07-01,132.0
+Tamil Nadu,2018-08-01,178.0
+Tamil Nadu,2018-09-01,240.0
+Tamil Nadu,2018-10-01,605.0
+Tamil Nadu,2018-11-01,1016.0
+Tamil Nadu,2018-12-01,690.0
+Tamil Nadu,2019-01-01,376.0
+Tamil Nadu,2019-02-01,190.0
+Tamil Nadu,2019-03-01,186.0
+Tamil Nadu,2019-04-01,100.0
+Tamil Nadu,2019-05-01,114.0
+Tamil Nadu,2019-06-01,134.0
+Telengana,2018-01-01,48.0
+Telengana,2018-02-01,99.0
+Telengana,2018-03-01,55.0
+Telengana,2018-04-01,65.0
+Telengana,2018-05-01,94.0
+Telengana,2018-06-01,33.0
+Telengana,2018-07-01,276.0
+Telengana,2018-08-01,529.0
+Telengana,2018-09-01,1173.0
+Telengana,2018-10-01,1149.0
+Telengana,2018-11-01,693.0
+Telengana,2018-12-01,378.0
+Telengana,2019-01-01,85.0
+Telengana,2019-02-01,23.0
+Telengana,2019-03-01,223.0
+Telengana,2019-04-01,177.0
+Telengana,2019-05-01,259.0
+Telengana,2019-06-01,186.0
+Tripura,2018-01-01,3.0
+Tripura,2018-02-01,1.0
+Tripura,2018-03-01,2.0
+Tripura,2018-04-01,0.0
+Tripura,2018-05-01,10.0
+Tripura,2018-06-01,3.0
+Tripura,2018-07-01,9.0
+Tripura,2018-08-01,10.0
+Tripura,2018-09-01,7.0
+Tripura,2018-10-01,22.0
+Tripura,2018-11-01,26.0
+Tripura,2018-12-01,7.0
+Tripura,2019-01-01,10.0
+Tripura,2019-02-01,6.0
+Tripura,2019-03-01,3.0
+Tripura,2019-04-01,7.0
+Tripura,2019-05-01,9.0
+Tripura,2019-06-01,11.0
+Uttar Pradesh,2018-01-01,48.0
+Uttar Pradesh,2018-02-01,24.0
+Uttar Pradesh,2018-03-01,28.0
+Uttar Pradesh,2018-04-01,21.0
+Uttar Pradesh,2018-05-01,17.0
+Uttar Pradesh,2018-06-01,12.0
+Uttar Pradesh,2018-07-01,34.0
+Uttar Pradesh,2018-08-01,126.0
+Uttar Pradesh,2018-09-01,602.0
+Uttar Pradesh,2018-10-01,2126.0
+Uttar Pradesh,2018-11-01,627.0
+Uttar Pradesh,2018-12-01,164.0
+Uttar Pradesh,2019-01-01,20.0
+Uttar Pradesh,2019-02-01,11.0
+Uttar Pradesh,2019-03-01,9.0
+Uttar Pradesh,2019-04-01,3.0
+Uttar Pradesh,2019-05-01,11.0
+Uttar Pradesh,2019-06-01,15.0
+Uttrakhand,2018-01-01,0.0
+Uttrakhand,2018-02-01,0.0
+Uttrakhand,2018-03-01,0.0
+Uttrakhand,2018-04-01,0.0
+Uttrakhand,2018-05-01,0.0
+Uttrakhand,2018-06-01,0.0
+Uttrakhand,2018-07-01,6.0
+Uttrakhand,2018-08-01,10.0
+Uttrakhand,2018-09-01,190.0
+Uttrakhand,2018-10-01,335.0
+Uttrakhand,2018-11-01,148.0
+Uttrakhand,2018-12-01,0.0
+Uttrakhand,2019-01-01,0.0
+Uttrakhand,2019-02-01,0.0
+Uttrakhand,2019-03-01,0.0
+Uttrakhand,2019-04-01,0.0
+Uttrakhand,2019-05-01,0.0
+Uttrakhand,2019-06-01,0.0
+West Bengal,2018-01-01,
+West Bengal,2018-02-01,
+West Bengal,2018-03-01,
+West Bengal,2018-04-01,
+West Bengal,2018-05-01,
+West Bengal,2018-06-01,
+West Bengal,2018-07-01,
+West Bengal,2018-08-01,
+West Bengal,2018-09-01,
+West Bengal,2018-10-01,
+West Bengal,2018-11-01,
+West Bengal,2018-12-01,
+West Bengal,2019-01-01,
+West Bengal,2019-02-01,
+West Bengal,2019-03-01,
+West Bengal,2019-04-01,
+West Bengal,2019-05-01,
+West Bengal,2019-06-01,
